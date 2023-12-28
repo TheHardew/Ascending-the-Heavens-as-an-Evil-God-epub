@@ -35,6 +35,6 @@ jobs:
 
     - name: Create Release
       run: |
-        gh release create $(date +%F) -t "Release $(date +%F)" *.epub
+        gh release create $(date +'%FT%H_%M_%SZ') -t "Release $(date '+%F %T')" *.epub
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
