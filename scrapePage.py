@@ -1,17 +1,23 @@
-#!/bin/python
+#!/usr/bin/python3
 
 import requests
 from bs4 import BeautifulSoup
 import sys
 import re
+import os
 
 if len(sys.argv) != 2:
-    print("Nya~! Please provide a command line argument! (>_<)")
+    print("Please provide a command line argument!")
     exit()
 
 # URL of the webpage
 url = sys.argv[1]
 match = re.search(r'/(chapter-\d+)', url).group(1)
+match = f'chapters/{match}'
+
+if os.path.exists(match):
+    exit()
+
 try:
     response = requests.get(url)
     if response.status_code == 200:
@@ -21,10 +27,11 @@ try:
         if target_article:
             content = str(target_article)
 
-            with open(f'scraped/{match}', 'w', encoding='utf-8') as file:
+            with open(match, 'w', encoding='utf-8') as file:
                 file.write(content)
+                print(match)
         else:
-            print("Div not found on the webpage.")
+            print("Article not found on the webpage.")
     else:
         print(f"Failed to retrieve content. Status code: {response.status_code}")
 

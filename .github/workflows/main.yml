@@ -1,0 +1,40 @@
+name: Generate the epub
+on:
+  push:
+    branches:
+      - main
+jobs:
+  generate-release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+        
+    - name: Install Packages
+      run: |
+        python -m pip install natsort beautifulsoup4 requests lxml
+
+    - name: Scrape
+      run: |
+        chmod +x ./scrape.sh
+        ./scrape.sh
+        
+    - name: Make Ebook
+      run: |
+        chmod +x makeEbook.sh
+        ./makeEbook.sh
+
+    - name: Set Tag Name
+      id: tag
+      run: date +%F
+
+    - name: Create Release
+      run: |
+        gh release create $(date +%F) -t "Release $(date +%F)" *.epub
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
