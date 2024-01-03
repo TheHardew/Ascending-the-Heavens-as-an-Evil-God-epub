@@ -18,7 +18,7 @@
      Chapter 1: An Evil God
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-1.xhtml"/>
+   <content src="Text/chapter-1.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-1" playOrder="2">
    <navLabel>
@@ -26,7 +26,7 @@
      Chapter 2: Those at an advantage grinned from ear to ear
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-2.xhtml"/>
+   <content src="Text/chapter-2.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-2" playOrder="3">
    <navLabel>
@@ -34,7 +34,7 @@
      Chapter 3: The Campus Beauty’s Personal Soldier King Bodyguard
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-3.xhtml"/>
+   <content src="Text/chapter-3.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-3" playOrder="4">
    <navLabel>
@@ -42,7 +42,7 @@
      Chapter 4: Cruelly Destroying Flowers
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-4.xhtml"/>
+   <content src="Text/chapter-4.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-4" playOrder="5">
    <navLabel>
@@ -50,7 +50,7 @@
      Chapter 5: Gu Nian's Goal
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-5.xhtml"/>
+   <content src="Text/chapter-5.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-5" playOrder="6">
    <navLabel>
@@ -58,7 +58,7 @@
      Chapter 6: The Wedding Begins, Famous Martial Artists Gather
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-6.xhtml"/>
+   <content src="Text/chapter-6.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-6" playOrder="7">
    <navLabel>
@@ -66,7 +66,7 @@
      Chapter 7: Decimating Internal Energy Experts
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-7.xhtml"/>
+   <content src="Text/chapter-7.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-7" playOrder="8">
    <navLabel>
@@ -74,7 +74,7 @@
      Chapter 8: Justice Will Eventually Defeat Evil
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-8.xhtml"/>
+   <content src="Text/chapter-8.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-8" playOrder="9">
    <navLabel>
@@ -82,7 +82,7 @@
      Chapter 9: I need to transmigrate again?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-9.xhtml"/>
+   <content src="Text/chapter-9.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-9" playOrder="10">
    <navLabel>
@@ -90,7 +90,7 @@
      Chapter 10: Mingguang Ascension Center
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-10.xhtml"/>
+   <content src="Text/chapter-10.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-10" playOrder="11">
    <navLabel>
@@ -98,7 +98,7 @@
      Chapter 11: Challenge Dungeon
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-11.xhtml"/>
+   <content src="Text/chapter-11.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-11" playOrder="12">
    <navLabel>
@@ -106,7 +106,7 @@
      Chapter 12: Information on Star Realm
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-12.xhtml"/>
+   <content src="Text/chapter-12.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-12" playOrder="13">
    <navLabel>
@@ -114,7 +114,7 @@
      Chapter 13: Uncovering a Corner of the Truth
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-13.xhtml"/>
+   <content src="Text/chapter-13.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-13" playOrder="14">
    <navLabel>
@@ -122,7 +122,7 @@
      Chapter 14: NPC Courting Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-14.xhtml"/>
+   <content src="Text/chapter-14.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-14" playOrder="15">
    <navLabel>
@@ -130,7 +130,7 @@
      Chapter 15: Strongest Kite Weapon in the Beginner Period
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-15.xhtml"/>
+   <content src="Text/chapter-15.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-15" playOrder="16">
    <navLabel>
@@ -138,7 +138,7 @@
      Chapter 16: Radiant Tower
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-16.xhtml"/>
+   <content src="Text/chapter-16.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-16" playOrder="17">
    <navLabel>
@@ -146,7 +146,7 @@
      Chapter 17: Do you wipe your ass when you use the restroom?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-17.xhtml"/>
+   <content src="Text/chapter-17.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-17" playOrder="18">
    <navLabel>
@@ -154,7 +154,7 @@
      Chapter 18: Azure City’s Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-18.xhtml"/>
+   <content src="Text/chapter-18.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-18" playOrder="19">
    <navLabel>
@@ -162,7 +162,7 @@
      Chapter 19: This is all to protect your… blood
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-19.xhtml"/>
+   <content src="Text/chapter-19.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-19" playOrder="20">
    <navLabel>
@@ -170,7 +170,7 @@
      Chapter 20: Pursuers Around the Corner
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-20.xhtml"/>
+   <content src="Text/chapter-20.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-20" playOrder="21">
    <navLabel>
@@ -178,7 +178,7 @@
      Chapter 21: A True Top Player
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-21.xhtml"/>
+   <content src="Text/chapter-21.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-21" playOrder="22">
    <navLabel>
@@ -186,7 +186,7 @@
      Chapter 22: Second Equipment Page: Soaring Strength
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-22.xhtml"/>
+   <content src="Text/chapter-22.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-22" playOrder="23">
    <navLabel>
@@ -194,7 +194,7 @@
      Chapter 23: Radiant Tower Arena
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-23.xhtml"/>
+   <content src="Text/chapter-23.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-23" playOrder="24">
    <navLabel>
@@ -202,7 +202,7 @@
      Chapter 24: Multiplayer Dungeon, Collaborative Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-24.xhtml"/>
+   <content src="Text/chapter-24.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-24" playOrder="25">
    <navLabel>
@@ -210,7 +210,7 @@
      Chapter 25: Immortal Demon World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-25.xhtml"/>
+   <content src="Text/chapter-25.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-25" playOrder="26">
    <navLabel>
@@ -218,7 +218,7 @@
      Chapter 26: Killing the Whole Family
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-26.xhtml"/>
+   <content src="Text/chapter-26.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-26" playOrder="27">
    <navLabel>
@@ -226,7 +226,7 @@
      Chapter 27: Crazy Hunter
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-27.xhtml"/>
+   <content src="Text/chapter-27.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-27" playOrder="28">
    <navLabel>
@@ -234,7 +234,7 @@
      Chapter 28: A Murderous Heart
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-28.xhtml"/>
+   <content src="Text/chapter-28.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-28" playOrder="29">
    <navLabel>
@@ -242,7 +242,7 @@
      Chapter 29: The Last Stop
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-29.xhtml"/>
+   <content src="Text/chapter-29.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-29" playOrder="30">
    <navLabel>
@@ -250,7 +250,7 @@
      Chapter 30: Prodigious Realm!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-30.xhtml"/>
+   <content src="Text/chapter-30.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-30" playOrder="31">
    <navLabel>
@@ -258,7 +258,7 @@
      Chapter 31: The Legendary Bug
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-31.xhtml"/>
+   <content src="Text/chapter-31.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-31" playOrder="32">
    <navLabel>
@@ -266,7 +266,7 @@
      Chapter 32: Side Quest Completed
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-32.xhtml"/>
+   <content src="Text/chapter-32.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-32" playOrder="33">
    <navLabel>
@@ -274,7 +274,7 @@
      Chapter 33: The Deal with Qin Xuanji
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-33.xhtml"/>
+   <content src="Text/chapter-33.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-33" playOrder="34">
    <navLabel>
@@ -282,7 +282,7 @@
      Chapter 34: Returning to Langya World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-34.xhtml"/>
+   <content src="Text/chapter-34.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-34" playOrder="35">
    <navLabel>
@@ -290,7 +290,7 @@
      Chapter 35: Mindset and Luring Monsters
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-35.xhtml"/>
+   <content src="Text/chapter-35.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-35" playOrder="36">
    <navLabel>
@@ -298,7 +298,7 @@
      Chapter 36: The Divine Art of Blood
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-36.xhtml"/>
+   <content src="Text/chapter-36.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-36" playOrder="37">
    <navLabel>
@@ -306,7 +306,7 @@
      Chapter 37: Crushed
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-37.xhtml"/>
+   <content src="Text/chapter-37.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-37" playOrder="38">
    <navLabel>
@@ -314,7 +314,7 @@
      Chapter 38: Traces of the Gods, Past and Present Life
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-38.xhtml"/>
+   <content src="Text/chapter-38.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-38" playOrder="39">
    <navLabel>
@@ -322,7 +322,7 @@
      Chapter 39: Chance Encounter
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-39.xhtml"/>
+   <content src="Text/chapter-39.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-39" playOrder="40">
    <navLabel>
@@ -330,7 +330,7 @@
      Chapter 40: Because I like it!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-40.xhtml"/>
+   <content src="Text/chapter-40.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-40" playOrder="41">
    <navLabel>
@@ -338,7 +338,7 @@
      Chapter 41: Visiting Immortal Demon World Again
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-41.xhtml"/>
+   <content src="Text/chapter-41.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-41" playOrder="42">
    <navLabel>
@@ -346,7 +346,7 @@
      Chapter 42: Quite Strong
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-42.xhtml"/>
+   <content src="Text/chapter-42.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-42" playOrder="43">
    <navLabel>
@@ -354,7 +354,7 @@
      Chapter 43: Polis Witch
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-43.xhtml"/>
+   <content src="Text/chapter-43.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-43" playOrder="44">
    <navLabel>
@@ -362,7 +362,7 @@
      Chapter 44: Young Demon Lord Du Mian
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-44.xhtml"/>
+   <content src="Text/chapter-44.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-44" playOrder="45">
    <navLabel>
@@ -370,7 +370,7 @@
      Chapter 45: Teacher
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-45.xhtml"/>
+   <content src="Text/chapter-45.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-45" playOrder="46">
    <navLabel>
@@ -378,7 +378,7 @@
      Chapter 46: Night of the Full Moon
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-46.xhtml"/>
+   <content src="Text/chapter-46.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-46" playOrder="47">
    <navLabel>
@@ -386,7 +386,7 @@
      Chapter 47: Azure Dragon Hall, Bait
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-47.xhtml"/>
+   <content src="Text/chapter-47.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-47" playOrder="48">
    <navLabel>
@@ -394,7 +394,7 @@
      Chapter 48: His Target is You
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-48.xhtml"/>
+   <content src="Text/chapter-48.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-48" playOrder="49">
    <navLabel>
@@ -402,7 +402,7 @@
      Chapter 49: IQ Suppression
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-49.xhtml"/>
+   <content src="Text/chapter-49.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-49" playOrder="50">
    <navLabel>
@@ -410,7 +410,7 @@
      Chapter 50: Hunting a Prodigious Realm Cultivator
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-50.xhtml"/>
+   <content src="Text/chapter-50.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-50" playOrder="51">
    <navLabel>
@@ -418,7 +418,7 @@
      Chapter 51: Bai Luoluo's Transmigration Journey
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-51.xhtml"/>
+   <content src="Text/chapter-51.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-51" playOrder="52">
    <navLabel>
@@ -426,7 +426,7 @@
      Chapter 52: Combat Coach
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-52.xhtml"/>
+   <content src="Text/chapter-52.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-52" playOrder="53">
    <navLabel>
@@ -434,7 +434,7 @@
      Chapter 53: Xu Feiyan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-53.xhtml"/>
+   <content src="Text/chapter-53.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-53" playOrder="54">
    <navLabel>
@@ -442,7 +442,7 @@
      Chapter 54: Familiar Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-54.xhtml"/>
+   <content src="Text/chapter-54.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-54" playOrder="55">
    <navLabel>
@@ -450,7 +450,7 @@
      Chapter 55: White Dew Town
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-55.xhtml"/>
+   <content src="Text/chapter-55.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-55" playOrder="56">
    <navLabel>
@@ -458,7 +458,7 @@
      Chapter 56: Demon Invasion
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-56.xhtml"/>
+   <content src="Text/chapter-56.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-56" playOrder="57">
    <navLabel>
@@ -466,7 +466,7 @@
      Chapter 57: Hook Up
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-57.xhtml"/>
+   <content src="Text/chapter-57.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-57" playOrder="58">
    <navLabel>
@@ -474,7 +474,7 @@
      Chapter 58: Hostile Agent?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-58.xhtml"/>
+   <content src="Text/chapter-58.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-58" playOrder="59">
    <navLabel>
@@ -482,7 +482,7 @@
      Chapter 59: Poisonous Lu Zhanyu
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-59.xhtml"/>
+   <content src="Text/chapter-59.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-59" playOrder="60">
    <navLabel>
@@ -490,7 +490,7 @@
      Chapter 60: Finally Advancing to Tier 3
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-60.xhtml"/>
+   <content src="Text/chapter-60.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-60" playOrder="61">
    <navLabel>
@@ -498,7 +498,7 @@
      Chapter 61: Treatment
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-61.xhtml"/>
+   <content src="Text/chapter-61.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-61" playOrder="62">
    <navLabel>
@@ -506,7 +506,7 @@
      Chapter 62: Battling the Demon Lord
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-62.xhtml"/>
+   <content src="Text/chapter-62.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-62" playOrder="63">
    <navLabel>
@@ -514,7 +514,7 @@
      Chapter 63: Battle Aftermath
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-63.xhtml"/>
+   <content src="Text/chapter-63.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-63" playOrder="64">
    <navLabel>
@@ -522,7 +522,7 @@
      Chapter 64: The Path of Revenge
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-64.xhtml"/>
+   <content src="Text/chapter-64.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-64" playOrder="65">
    <navLabel>
@@ -530,7 +530,7 @@
      Chapter 65: Buddhist Monk
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-65.xhtml"/>
+   <content src="Text/chapter-65.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-65" playOrder="66">
    <navLabel>
@@ -538,7 +538,7 @@
      Chapter 66: Independent Reincarnator
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-66.xhtml"/>
+   <content src="Text/chapter-66.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-66" playOrder="67">
    <navLabel>
@@ -546,7 +546,7 @@
      Chapter 67: Jing Nan's Turtle Shell
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-67.xhtml"/>
+   <content src="Text/chapter-67.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-67" playOrder="68">
    <navLabel>
@@ -554,7 +554,7 @@
      Chapter 68: Punching a Monk to Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-68.xhtml"/>
+   <content src="Text/chapter-68.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-68" playOrder="69">
    <navLabel>
@@ -562,7 +562,7 @@
      Chapter 69: Tang Xuan's Gift
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-69.xhtml"/>
+   <content src="Text/chapter-69.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-69" playOrder="70">
    <navLabel>
@@ -570,7 +570,7 @@
      Chapter 70: Goddess Sect's Secret Technique
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-70.xhtml"/>
+   <content src="Text/chapter-70.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-70" playOrder="71">
    <navLabel>
@@ -578,7 +578,7 @@
      Chapter 71: Shi Family's Siblings
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-71.xhtml"/>
+   <content src="Text/chapter-71.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-71" playOrder="72">
    <navLabel>
@@ -586,7 +586,7 @@
      Chapter 72: Master Gu
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-72.xhtml"/>
+   <content src="Text/chapter-72.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-72" playOrder="73">
    <navLabel>
@@ -594,7 +594,7 @@
      Chapter 73: Gu Nian Arrives
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-73.xhtml"/>
+   <content src="Text/chapter-73.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-73" playOrder="74">
    <navLabel>
@@ -602,7 +602,7 @@
      Chapter 74: The Downside of Reincarnation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-74.xhtml"/>
+   <content src="Text/chapter-74.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-74" playOrder="75">
    <navLabel>
@@ -610,7 +610,7 @@
      Chapter 75: Let's discuss it later
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-75.xhtml"/>
+   <content src="Text/chapter-75.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-75" playOrder="76">
    <navLabel>
@@ -618,7 +618,7 @@
      Chapter 76: Banquet
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-76.xhtml"/>
+   <content src="Text/chapter-76.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-76" playOrder="77">
    <navLabel>
@@ -626,7 +626,7 @@
      Chapter 77: Give me some face
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-77.xhtml"/>
+   <content src="Text/chapter-77.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-77" playOrder="78">
    <navLabel>
@@ -634,7 +634,7 @@
      Chapter 78: Martial Arts Hall's Recruitment
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-78.xhtml"/>
+   <content src="Text/chapter-78.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-78" playOrder="79">
    <navLabel>
@@ -642,7 +642,7 @@
      Chapter 79: Lin Yunyun
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-79.xhtml"/>
+   <content src="Text/chapter-79.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-79" playOrder="80">
    <navLabel>
@@ -650,7 +650,7 @@
      Chapter 80: Military Goddess
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-80.xhtml"/>
+   <content src="Text/chapter-80.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-80" playOrder="81">
    <navLabel>
@@ -658,7 +658,7 @@
      Chapter 81: Psychic Martial Arts
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-81.xhtml"/>
+   <content src="Text/chapter-81.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-81" playOrder="82">
    <navLabel>
@@ -666,7 +666,7 @@
      Chapter 82: Little Bai, come out to greet the guests!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-82.xhtml"/>
+   <content src="Text/chapter-82.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-82" playOrder="83">
    <navLabel>
@@ -674,7 +674,7 @@
      Chapter 83: Source
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-83.xhtml"/>
+   <content src="Text/chapter-83.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-83" playOrder="84">
    <navLabel>
@@ -682,7 +682,7 @@
      Chapter 84: Fight
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-84.xhtml"/>
+   <content src="Text/chapter-84.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-84" playOrder="85">
    <navLabel>
@@ -690,7 +690,7 @@
      Chapter 85: Qualifications
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-85.xhtml"/>
+   <content src="Text/chapter-85.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-85" playOrder="86">
    <navLabel>
@@ -698,7 +698,7 @@
      Chapter 86: Alley Girl Addicted to Drugs
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-86.xhtml"/>
+   <content src="Text/chapter-86.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-86" playOrder="87">
    <navLabel>
@@ -706,7 +706,7 @@
      Chapter 87: Unexpected World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-87.xhtml"/>
+   <content src="Text/chapter-87.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-87" playOrder="88">
    <navLabel>
@@ -714,7 +714,7 @@
      Chapter 88: Gu Nan's "Protection"
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-88.xhtml"/>
+   <content src="Text/chapter-88.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-88" playOrder="89">
    <navLabel>
@@ -722,7 +722,7 @@
      Chapter 89: Plane Leap
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-89.xhtml"/>
+   <content src="Text/chapter-89.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-89" playOrder="90">
    <navLabel>
@@ -730,7 +730,7 @@
      Chapter 90: Goddess of Revenge
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-90.xhtml"/>
+   <content src="Text/chapter-90.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-90" playOrder="91">
    <navLabel>
@@ -738,7 +738,7 @@
      Chapter 91: Senior, please spare me!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-91.xhtml"/>
+   <content src="Text/chapter-91.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-91" playOrder="92">
    <navLabel>
@@ -746,7 +746,7 @@
      Chapter 92: Yan Xiaoxiao's Whereabouts
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-92.xhtml"/>
+   <content src="Text/chapter-92.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-92" playOrder="93">
    <navLabel>
@@ -754,7 +754,7 @@
      Chapter 93: Plane Teleportation Array
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-93.xhtml"/>
+   <content src="Text/chapter-93.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-93" playOrder="94">
    <navLabel>
@@ -762,7 +762,7 @@
      Chapter 94: Past Events
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-94.xhtml"/>
+   <content src="Text/chapter-94.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-94" playOrder="95">
    <navLabel>
@@ -770,7 +770,7 @@
      Chapter 95: Complicated Feelings
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-95.xhtml"/>
+   <content src="Text/chapter-95.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-95" playOrder="96">
    <navLabel>
@@ -778,7 +778,7 @@
      Chapter 96: "Censored"
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-96.xhtml"/>
+   <content src="Text/chapter-96.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-96" playOrder="97">
    <navLabel>
@@ -786,7 +786,7 @@
      Chapter 97: Only lilies and lolis shall remain eternal
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-97.xhtml"/>
+   <content src="Text/chapter-97.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-97" playOrder="98">
    <navLabel>
@@ -794,7 +794,7 @@
      Chapter 98: Martial Arts Competition
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-98.xhtml"/>
+   <content src="Text/chapter-98.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-98" playOrder="99">
    <navLabel>
@@ -802,7 +802,7 @@
      Chapter 99: One After Another
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-99.xhtml"/>
+   <content src="Text/chapter-99.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-99" playOrder="100">
    <navLabel>
@@ -810,7 +810,7 @@
      Chapter 100: Those who object can die
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-100.xhtml"/>
+   <content src="Text/chapter-100.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-100" playOrder="101">
    <navLabel>
@@ -818,7 +818,7 @@
      Chapter 101: Kill
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-101.xhtml"/>
+   <content src="Text/chapter-101.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-101" playOrder="102">
    <navLabel>
@@ -826,7 +826,7 @@
      Chapter 102: The Gu Family's Decisiveness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-102.xhtml"/>
+   <content src="Text/chapter-102.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-102" playOrder="103">
    <navLabel>
@@ -834,7 +834,7 @@
      Chapter 103: Orphan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-103.xhtml"/>
+   <content src="Text/chapter-103.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-103" playOrder="104">
    <navLabel>
@@ -842,7 +842,7 @@
      Chapter 104: Dart
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-104.xhtml"/>
+   <content src="Text/chapter-104.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-104" playOrder="105">
    <navLabel>
@@ -850,7 +850,7 @@
      Chapter 105: New Weapon—Blade of the Sanguine King
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-105.xhtml"/>
+   <content src="Text/chapter-105.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-105" playOrder="106">
    <navLabel>
@@ -858,7 +858,7 @@
      Chapter 106: Taking a Life with Each Strike
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-106.xhtml"/>
+   <content src="Text/chapter-106.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-106" playOrder="107">
    <navLabel>
@@ -866,7 +866,7 @@
      Chapter 107: Gu Xingzhu and Convictions
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-107.xhtml"/>
+   <content src="Text/chapter-107.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-107" playOrder="108">
    <navLabel>
@@ -874,7 +874,7 @@
      Chapter 108: The Clue's Location
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-108.xhtml"/>
+   <content src="Text/chapter-108.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-108" playOrder="109">
    <navLabel>
@@ -882,7 +882,7 @@
      Chapter 109: Starship
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-109.xhtml"/>
+   <content src="Text/chapter-109.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-109" playOrder="110">
    <navLabel>
@@ -890,7 +890,7 @@
      Chapter 110: Crazy Warrior
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-110.xhtml"/>
+   <content src="Text/chapter-110.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-110" playOrder="111">
    <navLabel>
@@ -898,7 +898,7 @@
      Chapter 111: Love-Hate Relationship
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-111.xhtml"/>
+   <content src="Text/chapter-111.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-111" playOrder="112">
    <navLabel>
@@ -906,7 +906,7 @@
      Chapter 112: All Sides
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-112.xhtml"/>
+   <content src="Text/chapter-112.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-112" playOrder="113">
    <navLabel>
@@ -914,7 +914,7 @@
      Chapter 113: A Note with the Word "Maes"
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-113.xhtml"/>
+   <content src="Text/chapter-113.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-113" playOrder="114">
    <navLabel>
@@ -922,7 +922,7 @@
      Chapter 114: Duel
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-114.xhtml"/>
+   <content src="Text/chapter-114.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-114" playOrder="115">
    <navLabel>
@@ -930,7 +930,7 @@
      Chapter 115: Massacre Begins
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-115.xhtml"/>
+   <content src="Text/chapter-115.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-115" playOrder="116">
    <navLabel>
@@ -938,7 +938,7 @@
      Chapter 116: Injury
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-116.xhtml"/>
+   <content src="Text/chapter-116.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-116" playOrder="117">
    <navLabel>
@@ -946,7 +946,7 @@
      Chapter 117: Masterminds
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-117.xhtml"/>
+   <content src="Text/chapter-117.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-117" playOrder="118">
    <navLabel>
@@ -954,7 +954,7 @@
      Chapter 118: Massacre and War
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-118.xhtml"/>
+   <content src="Text/chapter-118.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-118" playOrder="119">
    <navLabel>
@@ -962,7 +962,7 @@
      Chapter 119: Reappearance of Apostles
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-119.xhtml"/>
+   <content src="Text/chapter-119.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-119" playOrder="120">
    <navLabel>
@@ -970,7 +970,7 @@
      Chapter 120: An Unexpected Familiar Face
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-120.xhtml"/>
+   <content src="Text/chapter-120.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-120" playOrder="121">
    <navLabel>
@@ -978,7 +978,7 @@
      Chapter 121: Luxuriant Blossoms
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-121.xhtml"/>
+   <content src="Text/chapter-121.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-121" playOrder="122">
    <navLabel>
@@ -986,7 +986,7 @@
      Chapter 122: Waiting out a cooldown
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-122.xhtml"/>
+   <content src="Text/chapter-122.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-122" playOrder="123">
    <navLabel>
@@ -994,7 +994,7 @@
      Chapter 123: Bloodletting
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-123.xhtml"/>
+   <content src="Text/chapter-123.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-123" playOrder="124">
    <navLabel>
@@ -1002,7 +1002,7 @@
      Chapter 124: So that's it
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-124.xhtml"/>
+   <content src="Text/chapter-124.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-124" playOrder="125">
    <navLabel>
@@ -1010,7 +1010,7 @@
      Chapter 125: Feng Lun's Pain and Joy
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-125.xhtml"/>
+   <content src="Text/chapter-125.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-125" playOrder="126">
    <navLabel>
@@ -1018,7 +1018,7 @@
      Chapter 126: Meeting
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-126.xhtml"/>
+   <content src="Text/chapter-126.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-126" playOrder="127">
    <navLabel>
@@ -1026,7 +1026,7 @@
      Chapter 127: Hacked to Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-127.xhtml"/>
+   <content src="Text/chapter-127.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-127" playOrder="128">
    <navLabel>
@@ -1034,7 +1034,7 @@
      Chapter 128: Return of the Prodigal Son
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-128.xhtml"/>
+   <content src="Text/chapter-128.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-128" playOrder="129">
    <navLabel>
@@ -1042,7 +1042,7 @@
      Chapter 129: Infiltration
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-129.xhtml"/>
+   <content src="Text/chapter-129.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-129" playOrder="130">
    <navLabel>
@@ -1050,7 +1050,7 @@
      Chapter 130: The Most Efficient Method to Farm Apostle-Type Monsters
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-130.xhtml"/>
+   <content src="Text/chapter-130.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-130" playOrder="131">
    <navLabel>
@@ -1058,7 +1058,7 @@
      Chapter 131: San Wei's Goal
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-131.xhtml"/>
+   <content src="Text/chapter-131.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-131" playOrder="132">
    <navLabel>
@@ -1066,7 +1066,7 @@
      Chapter 132: First Appearance of a Void Cutter Existence
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-132.xhtml"/>
+   <content src="Text/chapter-132.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-132" playOrder="133">
    <navLabel>
@@ -1074,7 +1074,7 @@
      Chapter 133: Yue Qianleng
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-133.xhtml"/>
+   <content src="Text/chapter-133.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-133" playOrder="134">
    <navLabel>
@@ -1082,7 +1082,7 @@
      Chapter 134: Qin Xuanji's Methods
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-134.xhtml"/>
+   <content src="Text/chapter-134.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-134" playOrder="135">
    <navLabel>
@@ -1090,7 +1090,7 @@
      Chapter 135: Injuries
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-135.xhtml"/>
+   <content src="Text/chapter-135.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-135" playOrder="136">
    <navLabel>
@@ -1098,7 +1098,7 @@
      Chapter 136: Friends and Allies Deserting
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-136.xhtml"/>
+   <content src="Text/chapter-136.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-136" playOrder="137">
    <navLabel>
@@ -1106,7 +1106,7 @@
      Chapter 137: Skyrocketing Evil Value
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-137.xhtml"/>
+   <content src="Text/chapter-137.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-137" playOrder="138">
    <navLabel>
@@ -1114,7 +1114,7 @@
      Chapter 138: Holding Grudges
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-138.xhtml"/>
+   <content src="Text/chapter-138.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-138" playOrder="139">
    <navLabel>
@@ -1122,7 +1122,7 @@
      Chapter 139: Bloodline Alliance Branch Office
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-139.xhtml"/>
+   <content src="Text/chapter-139.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-139" playOrder="140">
    <navLabel>
@@ -1130,7 +1130,7 @@
      Chapter 140: Keeping His Word
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-140.xhtml"/>
+   <content src="Text/chapter-140.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-140" playOrder="141">
    <navLabel>
@@ -1138,7 +1138,7 @@
      Chapter 141: The Arcana of Shadow
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-141.xhtml"/>
+   <content src="Text/chapter-141.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-141" playOrder="142">
    <navLabel>
@@ -1146,7 +1146,7 @@
      Chapter 142: A New Journey
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-142.xhtml"/>
+   <content src="Text/chapter-142.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-142" playOrder="143">
    <navLabel>
@@ -1154,7 +1154,7 @@
      Chapter 143: Encountering an Acquaintance
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-143.xhtml"/>
+   <content src="Text/chapter-143.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-143" playOrder="144">
    <navLabel>
@@ -1162,7 +1162,7 @@
      Chapter 144: Fu Jing
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-144.xhtml"/>
+   <content src="Text/chapter-144.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-144" playOrder="145">
    <navLabel>
@@ -1170,7 +1170,7 @@
      Chapter 145: Planetary Rings and Dao Halls
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-145.xhtml"/>
+   <content src="Text/chapter-145.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-145" playOrder="146">
    <navLabel>
@@ -1178,7 +1178,7 @@
      Chapter 146: Child of Destiny
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-146.xhtml"/>
+   <content src="Text/chapter-146.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-146" playOrder="147">
    <navLabel>
@@ -1186,7 +1186,7 @@
      Chapter 147: Era of Main Characters
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-147.xhtml"/>
+   <content src="Text/chapter-147.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-147" playOrder="148">
    <navLabel>
@@ -1194,7 +1194,7 @@
      Chapter 148: Six Great Dao Lords
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-148.xhtml"/>
+   <content src="Text/chapter-148.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-148" playOrder="149">
    <navLabel>
@@ -1202,7 +1202,7 @@
      Chapter 149: Heavenly Mystery
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-149.xhtml"/>
+   <content src="Text/chapter-149.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-149" playOrder="150">
    <navLabel>
@@ -1210,7 +1210,7 @@
      Chapter 150: White Mist
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-150.xhtml"/>
+   <content src="Text/chapter-150.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-150" playOrder="151">
    <navLabel>
@@ -1218,7 +1218,7 @@
      Chapter 151: As You Wish
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-151.xhtml"/>
+   <content src="Text/chapter-151.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-151" playOrder="152">
    <navLabel>
@@ -1226,7 +1226,7 @@
      Chapter 152: Grand Commander
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-152.xhtml"/>
+   <content src="Text/chapter-152.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-152" playOrder="153">
    <navLabel>
@@ -1234,7 +1234,7 @@
      Chapter 153: Let's Fight
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-153.xhtml"/>
+   <content src="Text/chapter-153.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-153" playOrder="154">
    <navLabel>
@@ -1242,7 +1242,7 @@
      Chapter 154: Red Tail
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-154.xhtml"/>
+   <content src="Text/chapter-154.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-154" playOrder="155">
    <navLabel>
@@ -1250,7 +1250,7 @@
      Chapter 155: Translation Method—Mirror of White Mist
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-155.xhtml"/>
+   <content src="Text/chapter-155.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-155" playOrder="156">
    <navLabel>
@@ -1258,7 +1258,7 @@
      Chapter 156: On How to Identify a Mysterious Expert
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-156.xhtml"/>
+   <content src="Text/chapter-156.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-156" playOrder="157">
    <navLabel>
@@ -1266,7 +1266,7 @@
      Chapter 157: Law of Causality
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-157.xhtml"/>
+   <content src="Text/chapter-157.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-157" playOrder="158">
    <navLabel>
@@ -1274,7 +1274,7 @@
      Chapter 158: Harem of Corpses
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-158.xhtml"/>
+   <content src="Text/chapter-158.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-158" playOrder="159">
    <navLabel>
@@ -1282,7 +1282,7 @@
      Chapter 159: One Slash, Six Attacks
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-159.xhtml"/>
+   <content src="Text/chapter-159.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-159" playOrder="160">
    <navLabel>
@@ -1290,7 +1290,7 @@
      Chapter 160: Morningstar Plane
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-160.xhtml"/>
+   <content src="Text/chapter-160.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-160" playOrder="161">
    <navLabel>
@@ -1298,7 +1298,7 @@
      Chapter 161: Young Heroic Spirit Summoner
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-161.xhtml"/>
+   <content src="Text/chapter-161.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-161" playOrder="162">
    <navLabel>
@@ -1306,7 +1306,7 @@
      Chapter 162: Han Feng
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-162.xhtml"/>
+   <content src="Text/chapter-162.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-162" playOrder="163">
    <navLabel>
@@ -1314,7 +1314,7 @@
      Chapter 163: Faceless
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-163.xhtml"/>
+   <content src="Text/chapter-163.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-163" playOrder="164">
    <navLabel>
@@ -1322,7 +1322,7 @@
      Chapter 164: Hunt
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-164.xhtml"/>
+   <content src="Text/chapter-164.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-164" playOrder="165">
    <navLabel>
@@ -1330,7 +1330,7 @@
      Chapter 165: Side Quest—Twin Heroic Spirits
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-165.xhtml"/>
+   <content src="Text/chapter-165.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-165" playOrder="166">
    <navLabel>
@@ -1338,7 +1338,7 @@
      Chapter 166: Sun
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-166.xhtml"/>
+   <content src="Text/chapter-166.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-166" playOrder="167">
    <navLabel>
@@ -1346,7 +1346,7 @@
      Chapter 167: Heroic Spirit Temple
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-167.xhtml"/>
+   <content src="Text/chapter-167.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-167" playOrder="168">
    <navLabel>
@@ -1354,7 +1354,7 @@
      Chapter 168: Reputation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-168.xhtml"/>
+   <content src="Text/chapter-168.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-168" playOrder="169">
    <navLabel>
@@ -1362,7 +1362,7 @@
      Chapter 169: Moon Thrall's Trail
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-169.xhtml"/>
+   <content src="Text/chapter-169.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-169" playOrder="170">
    <navLabel>
@@ -1370,7 +1370,7 @@
      Chapter 170: Infection
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-170.xhtml"/>
+   <content src="Text/chapter-170.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-170" playOrder="171">
    <navLabel>
@@ -1378,7 +1378,7 @@
      Chapter 171: The Continent's Sinner
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-171.xhtml"/>
+   <content src="Text/chapter-171.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-171" playOrder="172">
    <navLabel>
@@ -1386,7 +1386,7 @@
      Chapter 172: So this was an apocalypse dungeon
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-172.xhtml"/>
+   <content src="Text/chapter-172.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-172" playOrder="173">
    <navLabel>
@@ -1394,7 +1394,7 @@
      Chapter 173: Apocalyptic Catastrophe
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-173.xhtml"/>
+   <content src="Text/chapter-173.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-173" playOrder="174">
    <navLabel>
@@ -1402,7 +1402,7 @@
      Chapter 174: Invitation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-174.xhtml"/>
+   <content src="Text/chapter-174.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-174" playOrder="175">
    <navLabel>
@@ -1410,7 +1410,7 @@
      Chapter 175: Three Major Camps
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-175.xhtml"/>
+   <content src="Text/chapter-175.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-175" playOrder="176">
    <navLabel>
@@ -1418,7 +1418,7 @@
      Chapter 176: Surnamed Zhao
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-176.xhtml"/>
+   <content src="Text/chapter-176.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-176" playOrder="177">
    <navLabel>
@@ -1426,7 +1426,7 @@
      Chapter 177: Persuasion
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-177.xhtml"/>
+   <content src="Text/chapter-177.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-177" playOrder="178">
    <navLabel>
@@ -1434,7 +1434,7 @@
      Chapter 178: The Moon Thrall's...
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-178.xhtml"/>
+   <content src="Text/chapter-178.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-178" playOrder="179">
    <navLabel>
@@ -1442,7 +1442,7 @@
      Chapter 179: A Scary Picture
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-179.xhtml"/>
+   <content src="Text/chapter-179.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-179" playOrder="180">
    <navLabel>
@@ -1450,7 +1450,7 @@
      Chapter 180: Moon Thralls' Footsteps
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-180.xhtml"/>
+   <content src="Text/chapter-180.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-180" playOrder="181">
    <navLabel>
@@ -1458,7 +1458,7 @@
      Chapter 181: Target, Research Lab
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-181.xhtml"/>
+   <content src="Text/chapter-181.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-181" playOrder="182">
    <navLabel>
@@ -1466,7 +1466,7 @@
      Chapter 182: My Surname is Jiang
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-182.xhtml"/>
+   <content src="Text/chapter-182.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-182" playOrder="183">
    <navLabel>
@@ -1474,7 +1474,7 @@
      Chapter 183: Ghost Tree
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-183.xhtml"/>
+   <content src="Text/chapter-183.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-183" playOrder="184">
    <navLabel>
@@ -1482,7 +1482,7 @@
      Chapter 184: Enemy of the World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-184.xhtml"/>
+   <content src="Text/chapter-184.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-184" playOrder="185">
    <navLabel>
@@ -1490,7 +1490,7 @@
      Chapter 185: Big Brother
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-185.xhtml"/>
+   <content src="Text/chapter-185.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-185" playOrder="186">
    <navLabel>
@@ -1498,7 +1498,7 @@
      Chapter 186: Greatsword
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-186.xhtml"/>
+   <content src="Text/chapter-186.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-186" playOrder="187">
    <navLabel>
@@ -1506,7 +1506,7 @@
      Chapter 187: Multiple Personalities
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-187.xhtml"/>
+   <content src="Text/chapter-187.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-187" playOrder="188">
    <navLabel>
@@ -1514,7 +1514,7 @@
      Chapter 188: Conclusion
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-188.xhtml"/>
+   <content src="Text/chapter-188.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-188" playOrder="189">
    <navLabel>
@@ -1522,7 +1522,7 @@
      Chapter 189: King of the Northern Region
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-189.xhtml"/>
+   <content src="Text/chapter-189.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-189" playOrder="190">
    <navLabel>
@@ -1530,7 +1530,7 @@
      Chapter 190: I am the Walkthrough
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-190.xhtml"/>
+   <content src="Text/chapter-190.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-190" playOrder="191">
    <navLabel>
@@ -1538,7 +1538,7 @@
      Chapter 191: A Day in Chu Kang's Life
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-191.xhtml"/>
+   <content src="Text/chapter-191.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-191" playOrder="192">
    <navLabel>
@@ -1546,7 +1546,7 @@
      Chapter 192: The Heavily Injured Lan Si
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-192.xhtml"/>
+   <content src="Text/chapter-192.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-192" playOrder="193">
    <navLabel>
@@ -1554,7 +1554,7 @@
      Chapter 193: My Surname is Gu
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-193.xhtml"/>
+   <content src="Text/chapter-193.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-193" playOrder="194">
    <navLabel>
@@ -1562,7 +1562,7 @@
      Chapter 194: Star Ruler, Star Ruler
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-194.xhtml"/>
+   <content src="Text/chapter-194.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-194" playOrder="195">
    <navLabel>
@@ -1570,7 +1570,7 @@
      Chapter 195: Starting Point Kill
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-195.xhtml"/>
+   <content src="Text/chapter-195.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-195" playOrder="196">
    <navLabel>
@@ -1578,7 +1578,7 @@
      Chapter 196: Efficiency
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-196.xhtml"/>
+   <content src="Text/chapter-196.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-196" playOrder="197">
    <navLabel>
@@ -1586,7 +1586,7 @@
      Chapter 197: Guests from the Central Region
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-197.xhtml"/>
+   <content src="Text/chapter-197.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-197" playOrder="198">
    <navLabel>
@@ -1594,7 +1594,7 @@
      Chapter 198: Postponing the Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-198.xhtml"/>
+   <content src="Text/chapter-198.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-198" playOrder="199">
    <navLabel>
@@ -1602,7 +1602,7 @@
      Chapter 199: Catching a Powerful Figure’s Attention
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-199.xhtml"/>
+   <content src="Text/chapter-199.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-199" playOrder="200">
    <navLabel>
@@ -1610,7 +1610,7 @@
      Chapter 200: Guan Sheng
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-200.xhtml"/>
+   <content src="Text/chapter-200.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-200" playOrder="201">
    <navLabel>
@@ -1618,7 +1618,7 @@
      Chapter 201: Pursuit
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-201.xhtml"/>
+   <content src="Text/chapter-201.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-201" playOrder="202">
    <navLabel>
@@ -1626,7 +1626,7 @@
      Chapter 202: The Buddha of Ten Thousand Samara Awakens After 9,000 Reincarnations
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-202.xhtml"/>
+   <content src="Text/chapter-202.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-202" playOrder="203">
    <navLabel>
@@ -1634,7 +1634,7 @@
      Chapter 203: The Buddha of No Return
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-203.xhtml"/>
+   <content src="Text/chapter-203.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-203" playOrder="204">
    <navLabel>
@@ -1642,7 +1642,7 @@
      Chapter 204: One Person, One Sword
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-204.xhtml"/>
+   <content src="Text/chapter-204.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-204" playOrder="205">
    <navLabel>
@@ -1650,7 +1650,7 @@
      Chapter 205: They Sure Fled Fast
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-205.xhtml"/>
+   <content src="Text/chapter-205.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-205" playOrder="206">
    <navLabel>
@@ -1658,7 +1658,7 @@
      Chapter 206: Taking Over Heaven and Earth Star
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-206.xhtml"/>
+   <content src="Text/chapter-206.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-206" playOrder="207">
    <navLabel>
@@ -1666,7 +1666,7 @@
      Chapter 207: Repulsive Force
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-207.xhtml"/>
+   <content src="Text/chapter-207.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-207" playOrder="208">
    <navLabel>
@@ -1674,7 +1674,7 @@
      Chapter 208: The Dao Lords' Decision
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-208.xhtml"/>
+   <content src="Text/chapter-208.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-208" playOrder="209">
    <navLabel>
@@ -1682,7 +1682,7 @@
      Chapter 209: The Woman With No Shadow
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-209.xhtml"/>
+   <content src="Text/chapter-209.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-209" playOrder="210">
    <navLabel>
@@ -1690,7 +1690,7 @@
      Chapter 210: Heaven and Earth Star Standing Committee
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-210.xhtml"/>
+   <content src="Text/chapter-210.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-210" playOrder="211">
    <navLabel>
@@ -1698,7 +1698,7 @@
      Chapter 211: Imagination Grandmaster Gu Nan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-211.xhtml"/>
+   <content src="Text/chapter-211.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-211" playOrder="212">
    <navLabel>
@@ -1706,7 +1706,7 @@
      Chapter 212: Manipulating Destiny
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-212.xhtml"/>
+   <content src="Text/chapter-212.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-212" playOrder="213">
    <navLabel>
@@ -1714,7 +1714,7 @@
      Chapter 213: Scheme
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-213.xhtml"/>
+   <content src="Text/chapter-213.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-213" playOrder="214">
    <navLabel>
@@ -1722,7 +1722,7 @@
      Chapter 214: Exhausting All Schemes
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-214.xhtml"/>
+   <content src="Text/chapter-214.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-214" playOrder="215">
    <navLabel>
@@ -1730,7 +1730,7 @@
      Chapter 215: Total Annihilation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-215.xhtml"/>
+   <content src="Text/chapter-215.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-215" playOrder="216">
    <navLabel>
@@ -1738,7 +1738,7 @@
      Chapter 216: Law Nullification
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-216.xhtml"/>
+   <content src="Text/chapter-216.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-216" playOrder="217">
    <navLabel>
@@ -1746,7 +1746,7 @@
      Chapter 217: Mechanism
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-217.xhtml"/>
+   <content src="Text/chapter-217.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-217" playOrder="218">
    <navLabel>
@@ -1754,7 +1754,7 @@
      Chapter 218: News from the Central Region
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-218.xhtml"/>
+   <content src="Text/chapter-218.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-218" playOrder="219">
    <navLabel>
@@ -1762,7 +1762,7 @@
      Chapter 219: Three Months
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-219.xhtml"/>
+   <content src="Text/chapter-219.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-219" playOrder="220">
    <navLabel>
@@ -1770,7 +1770,7 @@
      Chapter 220: Every action has an equal and opposite reaction
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-220.xhtml"/>
+   <content src="Text/chapter-220.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-220" playOrder="221">
    <navLabel>
@@ -1778,7 +1778,7 @@
      Chapter 221: A Fragmented Divine Kingdom
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-221.xhtml"/>
+   <content src="Text/chapter-221.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-221" playOrder="222">
    <navLabel>
@@ -1786,7 +1786,7 @@
      Chapter 222: Yan Xiaoxiao's Willfulness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-222.xhtml"/>
+   <content src="Text/chapter-222.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-222" playOrder="223">
    <navLabel>
@@ -1794,7 +1794,7 @@
      Chapter 223: Final Glory
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-223.xhtml"/>
+   <content src="Text/chapter-223.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-223" playOrder="224">
    <navLabel>
@@ -1802,7 +1802,7 @@
      Chapter 224: All Gathered in Wu Gui City
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-224.xhtml"/>
+   <content src="Text/chapter-224.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-224" playOrder="225">
    <navLabel>
@@ -1810,7 +1810,7 @@
      Chapter 225: Immortal Demon Meeting
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-225.xhtml"/>
+   <content src="Text/chapter-225.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-225" playOrder="226">
    <navLabel>
@@ -1818,7 +1818,7 @@
      Chapter 226: Goodbye, Overseer
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-226.xhtml"/>
+   <content src="Text/chapter-226.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-226" playOrder="227">
    <navLabel>
@@ -1826,7 +1826,7 @@
      Chapter 227: Light and Darkness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-227.xhtml"/>
+   <content src="Text/chapter-227.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-227" playOrder="228">
    <navLabel>
@@ -1834,7 +1834,7 @@
      Chapter 228: Tailor-Made and Decisiveness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-228.xhtml"/>
+   <content src="Text/chapter-228.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-228" playOrder="229">
    <navLabel>
@@ -1842,7 +1842,7 @@
      Chapter 229: Corpse Flower's Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-229.xhtml"/>
+   <content src="Text/chapter-229.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-229" playOrder="230">
    <navLabel>
@@ -1850,7 +1850,7 @@
      Chapter 230: Taking Control
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-230.xhtml"/>
+   <content src="Text/chapter-230.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-230" playOrder="231">
    <navLabel>
@@ -1858,7 +1858,7 @@
      Chapter 231: Handling the Aftermath
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-231.xhtml"/>
+   <content src="Text/chapter-231.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-231" playOrder="232">
    <navLabel>
@@ -1866,7 +1866,7 @@
      Chapter 232: Law of Resurrection
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-232.xhtml"/>
+   <content src="Text/chapter-232.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-232" playOrder="233">
    <navLabel>
@@ -1874,7 +1874,7 @@
      Chapter 233: Building the Divine Kingdom from Zero
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-233.xhtml"/>
+   <content src="Text/chapter-233.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-233" playOrder="234">
    <navLabel>
@@ -1882,7 +1882,7 @@
      Chapter 234: Around the Corner
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-234.xhtml"/>
+   <content src="Text/chapter-234.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-234" playOrder="235">
    <navLabel>
@@ -1890,7 +1890,7 @@
      Chapter 235: Duanmu
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-235.xhtml"/>
+   <content src="Text/chapter-235.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-235" playOrder="236">
    <navLabel>
@@ -1898,7 +1898,7 @@
      Chapter 236: Unexpected Guest
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-236.xhtml"/>
+   <content src="Text/chapter-236.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-236" playOrder="237">
    <navLabel>
@@ -1906,7 +1906,7 @@
      Chapter 237: Clue
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-237.xhtml"/>
+   <content src="Text/chapter-237.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-237" playOrder="238">
    <navLabel>
@@ -1914,7 +1914,7 @@
      Chapter 238: Can't be Resurrected?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-238.xhtml"/>
+   <content src="Text/chapter-238.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-238" playOrder="239">
    <navLabel>
@@ -1922,7 +1922,7 @@
      Chapter 239: Live Combat Test
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-239.xhtml"/>
+   <content src="Text/chapter-239.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-239" playOrder="240">
    <navLabel>
@@ -1930,7 +1930,7 @@
      Chapter 240: Starry Ocean Pavilion’s Style
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-240.xhtml"/>
+   <content src="Text/chapter-240.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-240" playOrder="241">
    <navLabel>
@@ -1938,7 +1938,7 @@
      Chapter 241: Yue Jiu
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-241.xhtml"/>
+   <content src="Text/chapter-241.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-241" playOrder="242">
    <navLabel>
@@ -1946,7 +1946,7 @@
      Chapter 242: Find Ying Ge
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-242.xhtml"/>
+   <content src="Text/chapter-242.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-242" playOrder="243">
    <navLabel>
@@ -1954,7 +1954,7 @@
      Chapter 243: Seclusion
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-243.xhtml"/>
+   <content src="Text/chapter-243.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-243" playOrder="244">
    <navLabel>
@@ -1962,7 +1962,7 @@
      Chapter 244: Strange Woman
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-244.xhtml"/>
+   <content src="Text/chapter-244.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-244" playOrder="245">
    <navLabel>
@@ -1970,7 +1970,7 @@
      Chapter 245: Price
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-245.xhtml"/>
+   <content src="Text/chapter-245.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-245" playOrder="246">
    <navLabel>
@@ -1978,7 +1978,7 @@
      Chapter 246: On How to Find the Duanmu Family
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-246.xhtml"/>
+   <content src="Text/chapter-246.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-246" playOrder="247">
    <navLabel>
@@ -1986,7 +1986,7 @@
      Chapter 247: Sword or Fist?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-247.xhtml"/>
+   <content src="Text/chapter-247.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-247" playOrder="248">
    <navLabel>
@@ -1994,7 +1994,7 @@
      Chapter 248: Overwhelming Tactical Victory
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-248.xhtml"/>
+   <content src="Text/chapter-248.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-248" playOrder="249">
    <navLabel>
@@ -2002,7 +2002,7 @@
      Chapter 249: My Name is Ying Ge
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-249.xhtml"/>
+   <content src="Text/chapter-249.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-249" playOrder="250">
    <navLabel>
@@ -2010,7 +2010,7 @@
      Chapter 250: Unexpected
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-250.xhtml"/>
+   <content src="Text/chapter-250.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-250" playOrder="251">
    <navLabel>
@@ -2018,7 +2018,7 @@
      Chapter 251: Ying Ge and Zi Dian
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-251.xhtml"/>
+   <content src="Text/chapter-251.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-251" playOrder="252">
    <navLabel>
@@ -2026,7 +2026,7 @@
      Chapter 252: Green Clothes
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-252.xhtml"/>
+   <content src="Text/chapter-252.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-252" playOrder="253">
    <navLabel>
@@ -2034,7 +2034,7 @@
      Chapter 253: One Step Closer to the Truth
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-253.xhtml"/>
+   <content src="Text/chapter-253.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-253" playOrder="254">
    <navLabel>
@@ -2042,7 +2042,7 @@
      Chapter 254: Champions World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-254.xhtml"/>
+   <content src="Text/chapter-254.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-254" playOrder="255">
    <navLabel>
@@ -2050,7 +2050,7 @@
      Chapter 255: Abilities and Items
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-255.xhtml"/>
+   <content src="Text/chapter-255.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-255" playOrder="256">
    <navLabel>
@@ -2058,7 +2058,7 @@
      Chapter 256: Wave Control
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-256.xhtml"/>
+   <content src="Text/chapter-256.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-256" playOrder="257">
    <navLabel>
@@ -2066,7 +2066,7 @@
      Chapter 257: Novices?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-257.xhtml"/>
+   <content src="Text/chapter-257.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-257" playOrder="258">
    <navLabel>
@@ -2074,7 +2074,7 @@
      Chapter 258: Level 2 Rush
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-258.xhtml"/>
+   <content src="Text/chapter-258.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-258" playOrder="259">
    <navLabel>
@@ -2082,7 +2082,7 @@
      Chapter 259: Instant Kill
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-259.xhtml"/>
+   <content src="Text/chapter-259.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-259" playOrder="260">
    <navLabel>
@@ -2090,7 +2090,7 @@
      Chapter 260: Give me the kill
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-260.xhtml"/>
+   <content src="Text/chapter-260.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-260" playOrder="261">
    <navLabel>
@@ -2098,7 +2098,7 @@
      Chapter 261: Tower Dive
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-261.xhtml"/>
+   <content src="Text/chapter-261.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-261" playOrder="262">
    <navLabel>
@@ -2106,7 +2106,7 @@
      Chapter 262: Gank
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-262.xhtml"/>
+   <content src="Text/chapter-262.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-262" playOrder="263">
    <navLabel>
@@ -2114,7 +2114,7 @@
      Chapter 263: Legendary
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-263.xhtml"/>
+   <content src="Text/chapter-263.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-263" playOrder="264">
    <navLabel>
@@ -2122,7 +2122,7 @@
      Chapter 264: Denying
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-264.xhtml"/>
+   <content src="Text/chapter-264.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-264" playOrder="265">
    <navLabel>
@@ -2130,7 +2130,7 @@
      Chapter 265: Yang Quan's Realization
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-265.xhtml"/>
+   <content src="Text/chapter-265.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-265" playOrder="266">
    <navLabel>
@@ -2138,7 +2138,7 @@
      Chapter 266: Concept of Time
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-266.xhtml"/>
+   <content src="Text/chapter-266.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-266" playOrder="267">
    <navLabel>
@@ -2146,7 +2146,7 @@
      Chapter 267: Ying Ge's Surprise
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-267.xhtml"/>
+   <content src="Text/chapter-267.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-267" playOrder="268">
    <navLabel>
@@ -2154,7 +2154,7 @@
      Chapter 268: Zi Luo Heaven
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-268.xhtml"/>
+   <content src="Text/chapter-268.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-268" playOrder="269">
    <navLabel>
@@ -2162,7 +2162,7 @@
      Chapter 269: Visiting Astral Gate Again
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-269.xhtml"/>
+   <content src="Text/chapter-269.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-269" playOrder="270">
    <navLabel>
@@ -2170,7 +2170,7 @@
      Chapter 270: Ghost Sea World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-270.xhtml"/>
+   <content src="Text/chapter-270.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-270" playOrder="271">
    <navLabel>
@@ -2178,7 +2178,7 @@
      Chapter 271: Zhu Qin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-271.xhtml"/>
+   <content src="Text/chapter-271.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-271" playOrder="272">
    <navLabel>
@@ -2186,7 +2186,7 @@
      Chapter 272: Visit
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-272.xhtml"/>
+   <content src="Text/chapter-272.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-272" playOrder="273">
    <navLabel>
@@ -2194,7 +2194,7 @@
      Chapter 273: Xin Berg
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-273.xhtml"/>
+   <content src="Text/chapter-273.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-273" playOrder="274">
    <navLabel>
@@ -2202,7 +2202,7 @@
      Chapter 274: Blasphemy is Sin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-274.xhtml"/>
+   <content src="Text/chapter-274.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-274" playOrder="275">
    <navLabel>
@@ -2210,7 +2210,7 @@
      Chapter 275: Changes in Starry Ocean Pavilion
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-275.xhtml"/>
+   <content src="Text/chapter-275.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-275" playOrder="276">
    <navLabel>
@@ -2218,7 +2218,7 @@
      Chapter 276: Third Law, Deity’s Descent!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-276.xhtml"/>
+   <content src="Text/chapter-276.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-276" playOrder="277">
    <navLabel>
@@ -2226,7 +2226,7 @@
      Chapter 277: Here to kill someone
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-277.xhtml"/>
+   <content src="Text/chapter-277.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-277" playOrder="278">
    <navLabel>
@@ -2234,7 +2234,7 @@
      Chapter 278: I don't really care
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-278.xhtml"/>
+   <content src="Text/chapter-278.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-278" playOrder="279">
    <navLabel>
@@ -2242,7 +2242,7 @@
      Chapter 279: I know it better than you
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-279.xhtml"/>
+   <content src="Text/chapter-279.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-279" playOrder="280">
    <navLabel>
@@ -2250,7 +2250,7 @@
      Chapter 280: Suicide
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-280.xhtml"/>
+   <content src="Text/chapter-280.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-280" playOrder="281">
    <navLabel>
@@ -2258,7 +2258,7 @@
      Chapter 281: Ruthless
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-281.xhtml"/>
+   <content src="Text/chapter-281.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-281" playOrder="282">
    <navLabel>
@@ -2266,7 +2266,7 @@
      Chapter 282: Too Late
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-282.xhtml"/>
+   <content src="Text/chapter-282.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-282" playOrder="283">
    <navLabel>
@@ -2274,7 +2274,7 @@
      Chapter 283: Raising Livestock
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-283.xhtml"/>
+   <content src="Text/chapter-283.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-283" playOrder="284">
    <navLabel>
@@ -2282,7 +2282,7 @@
      Chapter 284: The Price for Helping
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-284.xhtml"/>
+   <content src="Text/chapter-284.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-284" playOrder="285">
    <navLabel>
@@ -2290,7 +2290,7 @@
      Chapter 285: Dream World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-285.xhtml"/>
+   <content src="Text/chapter-285.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-285" playOrder="286">
    <navLabel>
@@ -2298,7 +2298,7 @@
      Chapter 286: Nightmare
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-286.xhtml"/>
+   <content src="Text/chapter-286.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-286" playOrder="287">
    <navLabel>
@@ -2306,7 +2306,7 @@
      Chapter 287: Gu Nan's Weakness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-287.xhtml"/>
+   <content src="Text/chapter-287.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-287" playOrder="288">
    <navLabel>
@@ -2314,7 +2314,7 @@
      Chapter 288: Confrontation Within a Dream
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-288.xhtml"/>
+   <content src="Text/chapter-288.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-288" playOrder="289">
    <navLabel>
@@ -2322,7 +2322,7 @@
      Chapter 289: Found
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-289.xhtml"/>
+   <content src="Text/chapter-289.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-289" playOrder="290">
    <navLabel>
@@ -2330,7 +2330,7 @@
      Chapter 290: Kills
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-290.xhtml"/>
+   <content src="Text/chapter-290.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-290" playOrder="291">
    <navLabel>
@@ -2338,7 +2338,7 @@
      Chapter 291: Tier 5
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-291.xhtml"/>
+   <content src="Text/chapter-291.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-291" playOrder="292">
    <navLabel>
@@ -2346,7 +2346,7 @@
      Chapter 292: Divine Kingdom Construction
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-292.xhtml"/>
+   <content src="Text/chapter-292.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-292" playOrder="293">
    <navLabel>
@@ -2354,7 +2354,7 @@
      Chapter 293: Indigo Mound
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-293.xhtml"/>
+   <content src="Text/chapter-293.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-293" playOrder="294">
    <navLabel>
@@ -2362,7 +2362,7 @@
      Chapter 294: Golden Giant
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-294.xhtml"/>
+   <content src="Text/chapter-294.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-294" playOrder="295">
    <navLabel>
@@ -2370,7 +2370,7 @@
      Chapter 295: Don’t try to negotiate
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-295.xhtml"/>
+   <content src="Text/chapter-295.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-295" playOrder="296">
    <navLabel>
@@ -2378,7 +2378,7 @@
      Chapter 296: Otherworldly Clans
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-296.xhtml"/>
+   <content src="Text/chapter-296.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-296" playOrder="297">
    <navLabel>
@@ -2386,7 +2386,7 @@
      Chapter 297: Acquaintances at the Banquet
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-297.xhtml"/>
+   <content src="Text/chapter-297.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-297" playOrder="298">
    <navLabel>
@@ -2394,7 +2394,7 @@
      Chapter 298: Guan Hongchen
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-298.xhtml"/>
+   <content src="Text/chapter-298.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-298" playOrder="299">
    <navLabel>
@@ -2402,7 +2402,7 @@
      Chapter 299: On the Right Track
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-299.xhtml"/>
+   <content src="Text/chapter-299.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-299" playOrder="300">
    <navLabel>
@@ -2410,7 +2410,7 @@
      Chapter 300: Yeah
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-300.xhtml"/>
+   <content src="Text/chapter-300.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-300" playOrder="301">
    <navLabel>
@@ -2418,7 +2418,7 @@
      Chapter 301: Zhongli Sword Sect
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-301.xhtml"/>
+   <content src="Text/chapter-301.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-301" playOrder="302">
    <navLabel>
@@ -2426,7 +2426,7 @@
      Chapter 302: Regional Management Platform
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-302.xhtml"/>
+   <content src="Text/chapter-302.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-302" playOrder="303">
    <navLabel>
@@ -2434,7 +2434,7 @@
      Chapter 303: Life-Death Stone
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-303.xhtml"/>
+   <content src="Text/chapter-303.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-303" playOrder="304">
    <navLabel>
@@ -2442,7 +2442,7 @@
      Chapter 304: Seven Stars League
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-304.xhtml"/>
+   <content src="Text/chapter-304.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-304" playOrder="305">
    <navLabel>
@@ -2450,7 +2450,7 @@
      Chapter 305: Nirvana Heaven
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-305.xhtml"/>
+   <content src="Text/chapter-305.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-305" playOrder="306">
    <navLabel>
@@ -2458,7 +2458,7 @@
      Chapter 306: The Legendary Auction?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-306.xhtml"/>
+   <content src="Text/chapter-306.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-306" playOrder="307">
    <navLabel>
@@ -2466,7 +2466,7 @@
      Chapter 307: Conjecture
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-307.xhtml"/>
+   <content src="Text/chapter-307.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-307" playOrder="308">
    <navLabel>
@@ -2474,7 +2474,7 @@
      Chapter 308: Unforeseen Event
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-308.xhtml"/>
+   <content src="Text/chapter-308.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-308" playOrder="309">
    <navLabel>
@@ -2482,7 +2482,7 @@
      Chapter 309: Start of the Decisive Battle
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-309.xhtml"/>
+   <content src="Text/chapter-309.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-309" playOrder="310">
    <navLabel>
@@ -2490,7 +2490,7 @@
      Chapter 310: Zuo Zuo’s Origin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-310.xhtml"/>
+   <content src="Text/chapter-310.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-310" playOrder="311">
    <navLabel>
@@ -2498,7 +2498,7 @@
      Chapter 311: Nine Abyss Heavenly Demon
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-311.xhtml"/>
+   <content src="Text/chapter-311.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-311" playOrder="312">
    <navLabel>
@@ -2506,7 +2506,7 @@
      Chapter 312: Punched to Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-312.xhtml"/>
+   <content src="Text/chapter-312.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-312" playOrder="313">
    <navLabel>
@@ -2514,7 +2514,7 @@
      Chapter 313: Shatter Everything
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-313.xhtml"/>
+   <content src="Text/chapter-313.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-313" playOrder="314">
    <navLabel>
@@ -2522,7 +2522,7 @@
      Chapter 314: Apostle Hall
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-314.xhtml"/>
+   <content src="Text/chapter-314.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-314" playOrder="315">
    <navLabel>
@@ -2530,7 +2530,7 @@
      Chapter 315: Black Hole Plane
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-315.xhtml"/>
+   <content src="Text/chapter-315.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-315" playOrder="316">
    <navLabel>
@@ -2538,7 +2538,7 @@
      Chapter 316: The Dangerous Edge of the World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-316.xhtml"/>
+   <content src="Text/chapter-316.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-316" playOrder="317">
    <navLabel>
@@ -2546,7 +2546,7 @@
      Chapter 317: Passing By
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-317.xhtml"/>
+   <content src="Text/chapter-317.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-317" playOrder="318">
    <navLabel>
@@ -2554,7 +2554,7 @@
      Chapter 318: Befallen by Disaster
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-318.xhtml"/>
+   <content src="Text/chapter-318.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-318" playOrder="319">
    <navLabel>
@@ -2562,7 +2562,7 @@
      Chapter 319: Saint Corridor
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-319.xhtml"/>
+   <content src="Text/chapter-319.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-319" playOrder="320">
    <navLabel>
@@ -2570,7 +2570,7 @@
      Chapter 320: The Man with a Dragon on His Shoulder
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-320.xhtml"/>
+   <content src="Text/chapter-320.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-320" playOrder="321">
    <navLabel>
@@ -2578,7 +2578,7 @@
      Chapter 321: Requesting Reinforcements
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-321.xhtml"/>
+   <content src="Text/chapter-321.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-321" playOrder="322">
    <navLabel>
@@ -2586,7 +2586,7 @@
      Chapter 322: White Bones Realm
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-322.xhtml"/>
+   <content src="Text/chapter-322.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-322" playOrder="323">
    <navLabel>
@@ -2594,7 +2594,7 @@
      Chapter 323: The Ingenious Use of Transcendent Realm Martial Artists
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-323.xhtml"/>
+   <content src="Text/chapter-323.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-323" playOrder="324">
    <navLabel>
@@ -2602,7 +2602,7 @@
      Chapter 324: Assassination
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-324.xhtml"/>
+   <content src="Text/chapter-324.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-324" playOrder="325">
    <navLabel>
@@ -2610,7 +2610,7 @@
      Chapter 325: Natural-Born Child of Destiny
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-325.xhtml"/>
+   <content src="Text/chapter-325.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-325" playOrder="326">
    <navLabel>
@@ -2618,7 +2618,7 @@
      Chapter 326: Ah Xiu's Fate
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-326.xhtml"/>
+   <content src="Text/chapter-326.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-326" playOrder="327">
    <navLabel>
@@ -2626,7 +2626,7 @@
      Chapter 327: Glazed Jade Bones
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-327.xhtml"/>
+   <content src="Text/chapter-327.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-327" playOrder="328">
    <navLabel>
@@ -2634,7 +2634,7 @@
      Chapter 328: The Invincible Power of Space?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-328.xhtml"/>
+   <content src="Text/chapter-328.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-328" playOrder="329">
    <navLabel>
@@ -2642,7 +2642,7 @@
      Chapter 329: Lacking Fine Control
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-329.xhtml"/>
+   <content src="Text/chapter-329.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-329" playOrder="330">
    <navLabel>
@@ -2650,7 +2650,7 @@
      Chapter 330: The So-Called Oriole Behind
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-330.xhtml"/>
+   <content src="Text/chapter-330.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-330" playOrder="331">
    <navLabel>
@@ -2658,7 +2658,7 @@
      Chapter 331: Divine Kingdom Contribution Points
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-331.xhtml"/>
+   <content src="Text/chapter-331.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-331" playOrder="332">
    <navLabel>
@@ -2666,7 +2666,7 @@
      Chapter 332: The Function of Special Structures
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-332.xhtml"/>
+   <content src="Text/chapter-332.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-332" playOrder="333">
    <navLabel>
@@ -2674,7 +2674,7 @@
      Chapter 333: A Pair of Master and Disciple
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-333.xhtml"/>
+   <content src="Text/chapter-333.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-333" playOrder="334">
    <navLabel>
@@ -2682,7 +2682,7 @@
      Chapter 334: Silver Robe, Silver Mask
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-334.xhtml"/>
+   <content src="Text/chapter-334.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-334" playOrder="335">
    <navLabel>
@@ -2690,7 +2690,7 @@
      Chapter 335: Soldiers at the City Walls
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-335.xhtml"/>
+   <content src="Text/chapter-335.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-335" playOrder="336">
    <navLabel>
@@ -2698,7 +2698,7 @@
      Chapter 336: A Sword in Her Heart
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-336.xhtml"/>
+   <content src="Text/chapter-336.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-336" playOrder="337">
    <navLabel>
@@ -2706,7 +2706,7 @@
      Chapter 337: A Living Mist Mirror
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-337.xhtml"/>
+   <content src="Text/chapter-337.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-337" playOrder="338">
    <navLabel>
@@ -2714,7 +2714,7 @@
      Chapter 338: Target: Silver-Robed Ancestor
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-338.xhtml"/>
+   <content src="Text/chapter-338.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-338" playOrder="339">
    <navLabel>
@@ -2722,7 +2722,7 @@
      Chapter 339: Unstable Aggro
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-339.xhtml"/>
+   <content src="Text/chapter-339.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-339" playOrder="340">
    <navLabel>
@@ -2730,7 +2730,7 @@
      Chapter 340: “Good Samaritan” Gu Nan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-340.xhtml"/>
+   <content src="Text/chapter-340.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-340" playOrder="341">
    <navLabel>
@@ -2738,7 +2738,7 @@
      Chapter 341: Long Ling'er’s Origin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-341.xhtml"/>
+   <content src="Text/chapter-341.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-341" playOrder="342">
    <navLabel>
@@ -2746,7 +2746,7 @@
      Chapter 342: Unwarranted Disaster
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-342.xhtml"/>
+   <content src="Text/chapter-342.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-342" playOrder="343">
    <navLabel>
@@ -2754,7 +2754,7 @@
      Chapter 343: Rending Mountain Venerable
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-343.xhtml"/>
+   <content src="Text/chapter-343.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-343" playOrder="344">
    <navLabel>
@@ -2762,7 +2762,7 @@
      Chapter 344: A New Goal
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-344.xhtml"/>
+   <content src="Text/chapter-344.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-344" playOrder="345">
    <navLabel>
@@ -2770,7 +2770,7 @@
      Chapter 345: Human Smuggling
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-345.xhtml"/>
+   <content src="Text/chapter-345.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-345" playOrder="346">
    <navLabel>
@@ -2778,7 +2778,7 @@
      Chapter 346: Lu Xinhuan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-346.xhtml"/>
+   <content src="Text/chapter-346.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-346" playOrder="347">
    <navLabel>
@@ -2786,7 +2786,7 @@
      Chapter 347: One More Person
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-347.xhtml"/>
+   <content src="Text/chapter-347.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-347" playOrder="348">
    <navLabel>
@@ -2794,7 +2794,7 @@
      Chapter 348: I cleared this dungeon before
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-348.xhtml"/>
+   <content src="Text/chapter-348.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-348" playOrder="349">
    <navLabel>
@@ -2802,7 +2802,7 @@
      Chapter 349: The Undead Kingdom
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-349.xhtml"/>
+   <content src="Text/chapter-349.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-349" playOrder="350">
    <navLabel>
@@ -2810,7 +2810,7 @@
      Chapter 350: Vampire Maiden
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-350.xhtml"/>
+   <content src="Text/chapter-350.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-350" playOrder="351">
    <navLabel>
@@ -2818,7 +2818,7 @@
      Chapter 351: Little Zhong Die's Hobby
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-351.xhtml"/>
+   <content src="Text/chapter-351.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-351" playOrder="352">
    <navLabel>
@@ -2826,7 +2826,7 @@
      Chapter 352: Central Gladiator Arena
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-352.xhtml"/>
+   <content src="Text/chapter-352.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-352" playOrder="353">
    <navLabel>
@@ -2834,7 +2834,7 @@
      Chapter 353: Origin Blood
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-353.xhtml"/>
+   <content src="Text/chapter-353.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-353" playOrder="354">
    <navLabel>
@@ -2842,7 +2842,7 @@
      Chapter 354: Bringing Umbrellas
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-354.xhtml"/>
+   <content src="Text/chapter-354.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-354" playOrder="355">
    <navLabel>
@@ -2850,7 +2850,7 @@
      Chapter 355: Blood Diet
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-355.xhtml"/>
+   <content src="Text/chapter-355.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-355" playOrder="356">
    <navLabel>
@@ -2858,7 +2858,7 @@
      Chapter 356: Knocking
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-356.xhtml"/>
+   <content src="Text/chapter-356.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-356" playOrder="357">
    <navLabel>
@@ -2866,7 +2866,7 @@
      Chapter 357: Large Net
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-357.xhtml"/>
+   <content src="Text/chapter-357.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-357" playOrder="358">
    <navLabel>
@@ -2874,7 +2874,7 @@
      Chapter 358: The Goddess of Shadows and the Heaven-God Alliance
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-358.xhtml"/>
+   <content src="Text/chapter-358.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-358" playOrder="359">
    <navLabel>
@@ -2882,7 +2882,7 @@
      Chapter 359: Gods and Star Rulers
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-359.xhtml"/>
+   <content src="Text/chapter-359.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-359" playOrder="360">
    <navLabel>
@@ -2890,7 +2890,7 @@
      Chapter 360: Cain's Left Hand
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-360.xhtml"/>
+   <content src="Text/chapter-360.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-360" playOrder="361">
    <navLabel>
@@ -2898,7 +2898,7 @@
      Chapter 361: Mirror God Norris
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-361.xhtml"/>
+   <content src="Text/chapter-361.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-361" playOrder="362">
    <navLabel>
@@ -2906,7 +2906,7 @@
      Chapter 362: Visit
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-362.xhtml"/>
+   <content src="Text/chapter-362.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-362" playOrder="363">
    <navLabel>
@@ -2914,7 +2914,7 @@
      Chapter 363: Outcome
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-363.xhtml"/>
+   <content src="Text/chapter-363.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-363" playOrder="364">
    <navLabel>
@@ -2922,7 +2922,7 @@
      Chapter 364: Saving Money
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-364.xhtml"/>
+   <content src="Text/chapter-364.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-364" playOrder="365">
    <navLabel>
@@ -2930,7 +2930,7 @@
      Chapter 365: Sacred Catacombs of the Undead
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-365.xhtml"/>
+   <content src="Text/chapter-365.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-365" playOrder="366">
    <navLabel>
@@ -2938,7 +2938,7 @@
      Chapter 366: I'm Sure
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-366.xhtml"/>
+   <content src="Text/chapter-366.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-366" playOrder="367">
    <navLabel>
@@ -2946,7 +2946,7 @@
      Chapter 367: Return Trip
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-367.xhtml"/>
+   <content src="Text/chapter-367.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-367" playOrder="368">
    <navLabel>
@@ -2954,7 +2954,7 @@
      Chapter 368: Extreme Sword Heaven
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-368.xhtml"/>
+   <content src="Text/chapter-368.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-368" playOrder="369">
    <navLabel>
@@ -2962,7 +2962,7 @@
      Chapter 369: Qu Hongye
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-369.xhtml"/>
+   <content src="Text/chapter-369.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-369" playOrder="370">
    <navLabel>
@@ -2970,7 +2970,7 @@
      Chapter 370: Strongest Swordsman of the Myriad Heavens
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-370.xhtml"/>
+   <content src="Text/chapter-370.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-370" playOrder="371">
    <navLabel>
@@ -2978,7 +2978,7 @@
      Chapter 371: Xue Ren's Request
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-371.xhtml"/>
+   <content src="Text/chapter-371.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-371" playOrder="372">
    <navLabel>
@@ -2986,7 +2986,7 @@
      Chapter 372: Divinity
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-372.xhtml"/>
+   <content src="Text/chapter-372.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-372" playOrder="373">
    <navLabel>
@@ -2994,7 +2994,7 @@
      Chapter 373: Vision for a Player Army
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-373.xhtml"/>
+   <content src="Text/chapter-373.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-373" playOrder="374">
    <navLabel>
@@ -3002,7 +3002,7 @@
      Chapter 374: Alteration in the Void Ruins
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-374.xhtml"/>
+   <content src="Text/chapter-374.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-374" playOrder="375">
    <navLabel>
@@ -3010,7 +3010,7 @@
      Chapter 375: Making a Move
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-375.xhtml"/>
+   <content src="Text/chapter-375.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-375" playOrder="376">
    <navLabel>
@@ -3018,7 +3018,7 @@
      Chapter 376: Protection of Nine Stars
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-376.xhtml"/>
+   <content src="Text/chapter-376.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-376" playOrder="377">
    <navLabel>
@@ -3026,7 +3026,7 @@
      Chapter 377: Protect Gu Nan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-377.xhtml"/>
+   <content src="Text/chapter-377.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-377" playOrder="378">
    <navLabel>
@@ -3034,7 +3034,7 @@
      Chapter 378: Transmigration
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-378.xhtml"/>
+   <content src="Text/chapter-378.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-378" playOrder="379">
    <navLabel>
@@ -3042,7 +3042,7 @@
      Chapter 379: Prelude to the Divine Kingdom War
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-379.xhtml"/>
+   <content src="Text/chapter-379.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-379" playOrder="380">
    <navLabel>
@@ -3050,7 +3050,7 @@
      Chapter 380: The Reason the Heaven-God Alliance Exists
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-380.xhtml"/>
+   <content src="Text/chapter-380.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-380" playOrder="381">
    <navLabel>
@@ -3058,7 +3058,7 @@
      Chapter 381: Box
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-381.xhtml"/>
+   <content src="Text/chapter-381.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-381" playOrder="382">
    <navLabel>
@@ -3066,7 +3066,7 @@
      Chapter 382: Lost
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-382.xhtml"/>
+   <content src="Text/chapter-382.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-382" playOrder="383">
    <navLabel>
@@ -3074,7 +3074,7 @@
      Chapter 383: Fan Hua and Dong Xun
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-383.xhtml"/>
+   <content src="Text/chapter-383.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-383" playOrder="384">
    <navLabel>
@@ -3082,7 +3082,7 @@
      Chapter 384: Deep and Righteous Friendship
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-384.xhtml"/>
+   <content src="Text/chapter-384.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-384" playOrder="385">
    <navLabel>
@@ -3090,7 +3090,7 @@
      Chapter 385: Aftermath
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-385.xhtml"/>
+   <content src="Text/chapter-385.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-385" playOrder="386">
    <navLabel>
@@ -3098,7 +3098,7 @@
      Chapter 386: Grand Army
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-386.xhtml"/>
+   <content src="Text/chapter-386.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-386" playOrder="387">
    <navLabel>
@@ -3106,7 +3106,7 @@
      Chapter 387: Jin Lin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-387.xhtml"/>
+   <content src="Text/chapter-387.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-387" playOrder="388">
    <navLabel>
@@ -3114,7 +3114,7 @@
      Chapter 388: Farm it Again
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-388.xhtml"/>
+   <content src="Text/chapter-388.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-388" playOrder="389">
    <navLabel>
@@ -3122,7 +3122,7 @@
      Chapter 389: Repercussions
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-389.xhtml"/>
+   <content src="Text/chapter-389.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-389" playOrder="390">
    <navLabel>
@@ -3130,7 +3130,7 @@
      Chapter 390: Karma
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-390.xhtml"/>
+   <content src="Text/chapter-390.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-390" playOrder="391">
    <navLabel>
@@ -3138,7 +3138,7 @@
      Chapter 391: Siege
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-391.xhtml"/>
+   <content src="Text/chapter-391.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-391" playOrder="392">
    <navLabel>
@@ -3146,7 +3146,7 @@
      Chapter 392: Star Rulers Arrive
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-392.xhtml"/>
+   <content src="Text/chapter-392.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-392" playOrder="393">
    <navLabel>
@@ -3154,7 +3154,7 @@
      Chapter 393: Don't Recognize Anyone
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-393.xhtml"/>
+   <content src="Text/chapter-393.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-393" playOrder="394">
    <navLabel>
@@ -3162,7 +3162,7 @@
      Chapter 394: World-Renowned with One Battle
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-394.xhtml"/>
+   <content src="Text/chapter-394.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-394" playOrder="395">
    <navLabel>
@@ -3170,7 +3170,7 @@
      Chapter 395: Zi Luo's Past
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-395.xhtml"/>
+   <content src="Text/chapter-395.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-395" playOrder="396">
    <navLabel>
@@ -3178,7 +3178,7 @@
      Chapter 396: Two Years, Tier 7
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-396.xhtml"/>
+   <content src="Text/chapter-396.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-396" playOrder="397">
    <navLabel>
@@ -3186,7 +3186,7 @@
      Chapter 397: Real and Fake Unified Dao Ascensions
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-397.xhtml"/>
+   <content src="Text/chapter-397.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-397" playOrder="398">
    <navLabel>
@@ -3194,7 +3194,7 @@
      Chapter 398: Count Him Unlucky
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-398.xhtml"/>
+   <content src="Text/chapter-398.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-398" playOrder="399">
    <navLabel>
@@ -3202,7 +3202,7 @@
      Chapter 399: Confusing Battle
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-399.xhtml"/>
+   <content src="Text/chapter-399.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-399" playOrder="400">
    <navLabel>
@@ -3210,7 +3210,7 @@
      Chapter 400: Monk Nuxin
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-400.xhtml"/>
+   <content src="Text/chapter-400.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-400" playOrder="401">
    <navLabel>
@@ -3218,7 +3218,7 @@
      Chapter 401: Leave None Alive
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-401.xhtml"/>
+   <content src="Text/chapter-401.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-401" playOrder="402">
    <navLabel>
@@ -3226,7 +3226,7 @@
      Chapter 402: Fang Chaoyun
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-402.xhtml"/>
+   <content src="Text/chapter-402.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-402" playOrder="403">
    <navLabel>
@@ -3234,7 +3234,7 @@
      Chapter 403: First Clash with the Thirteen Heavens
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-403.xhtml"/>
+   <content src="Text/chapter-403.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-403" playOrder="404">
    <navLabel>
@@ -3242,7 +3242,7 @@
      Chapter 404: Don't be a Wimp
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-404.xhtml"/>
+   <content src="Text/chapter-404.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-404" playOrder="405">
    <navLabel>
@@ -3250,7 +3250,7 @@
      Chapter 405: Reactions From All Sides
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-405.xhtml"/>
+   <content src="Text/chapter-405.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-405" playOrder="406">
    <navLabel>
@@ -3258,7 +3258,7 @@
      Chapter 406: Heaven-God Alliance Core Members
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-406.xhtml"/>
+   <content src="Text/chapter-406.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-406" playOrder="407">
    <navLabel>
@@ -3266,7 +3266,7 @@
      Chapter 407: Zi Luo's Might
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-407.xhtml"/>
+   <content src="Text/chapter-407.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-407" playOrder="408">
    <navLabel>
@@ -3274,7 +3274,7 @@
      Chapter 408: Zhong Qinghe
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-408.xhtml"/>
+   <content src="Text/chapter-408.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-408" playOrder="409">
    <navLabel>
@@ -3282,7 +3282,7 @@
      Chapter 409: Dragon Realm
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-409.xhtml"/>
+   <content src="Text/chapter-409.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-409" playOrder="410">
    <navLabel>
@@ -3290,7 +3290,7 @@
      Chapter 410: Metallic Silver Island
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-410.xhtml"/>
+   <content src="Text/chapter-410.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-410" playOrder="411">
    <navLabel>
@@ -3298,7 +3298,7 @@
      Chapter 411: Wrestling Goddess Karina
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-411.xhtml"/>
+   <content src="Text/chapter-411.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-411" playOrder="412">
    <navLabel>
@@ -3306,7 +3306,7 @@
      Chapter 412: Selling out a Teammate
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-412.xhtml"/>
+   <content src="Text/chapter-412.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-412" playOrder="413">
    <navLabel>
@@ -3314,7 +3314,7 @@
      Chapter 413: Strange World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-413.xhtml"/>
+   <content src="Text/chapter-413.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-413" playOrder="414">
    <navLabel>
@@ -3322,7 +3322,7 @@
      Chapter 414: Reward
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-414.xhtml"/>
+   <content src="Text/chapter-414.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-414" playOrder="415">
    <navLabel>
@@ -3330,7 +3330,7 @@
      Chapter 415: Shadow Cult Event
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-415.xhtml"/>
+   <content src="Text/chapter-415.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-415" playOrder="416">
    <navLabel>
@@ -3338,7 +3338,7 @@
      Chapter 416: Another Shadow User
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-416.xhtml"/>
+   <content src="Text/chapter-416.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-416" playOrder="417">
    <navLabel>
@@ -3346,7 +3346,7 @@
      Chapter 417: Homecoming and Black Cards
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-417.xhtml"/>
+   <content src="Text/chapter-417.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-417" playOrder="418">
    <navLabel>
@@ -3354,7 +3354,7 @@
      Chapter 418: Weakness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-418.xhtml"/>
+   <content src="Text/chapter-418.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-418" playOrder="419">
    <navLabel>
@@ -3362,7 +3362,7 @@
      Chapter 419: Shadow Sword Saint
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-419.xhtml"/>
+   <content src="Text/chapter-419.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-419" playOrder="420">
    <navLabel>
@@ -3370,7 +3370,7 @@
      Chapter 420: Bandit An Tiansheng
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-420.xhtml"/>
+   <content src="Text/chapter-420.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-420" playOrder="421">
    <navLabel>
@@ -3378,7 +3378,7 @@
      Chapter 421: Daughter of God
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-421.xhtml"/>
+   <content src="Text/chapter-421.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-421" playOrder="422">
    <navLabel>
@@ -3386,7 +3386,7 @@
      Chapter 422: Very Expensive
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-422.xhtml"/>
+   <content src="Text/chapter-422.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-422" playOrder="423">
    <navLabel>
@@ -3394,7 +3394,7 @@
      Chapter 423: Examiner
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-423.xhtml"/>
+   <content src="Text/chapter-423.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-423" playOrder="424">
    <navLabel>
@@ -3402,7 +3402,7 @@
      Chapter 424: Chance
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-424.xhtml"/>
+   <content src="Text/chapter-424.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-424" playOrder="425">
    <navLabel>
@@ -3410,7 +3410,7 @@
      Chapter 425: Entrusting
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-425.xhtml"/>
+   <content src="Text/chapter-425.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-425" playOrder="426">
    <navLabel>
@@ -3418,7 +3418,7 @@
      Chapter 426: Shifting the Blame
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-426.xhtml"/>
+   <content src="Text/chapter-426.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-426" playOrder="427">
    <navLabel>
@@ -3426,7 +3426,7 @@
      Chapter 427: Archmage Claude
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-427.xhtml"/>
+   <content src="Text/chapter-427.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-427" playOrder="428">
    <navLabel>
@@ -3434,7 +3434,7 @@
      Chapter 428: Powerful Undead
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-428.xhtml"/>
+   <content src="Text/chapter-428.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-428" playOrder="429">
    <navLabel>
@@ -3442,7 +3442,7 @@
      Chapter 429: Crusaders
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-429.xhtml"/>
+   <content src="Text/chapter-429.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-429" playOrder="430">
    <navLabel>
@@ -3450,7 +3450,7 @@
      Chapter 430: Darkness and Opportunity
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-430.xhtml"/>
+   <content src="Text/chapter-430.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-430" playOrder="431">
    <navLabel>
@@ -3458,7 +3458,7 @@
      Chapter 431: Helper
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-431.xhtml"/>
+   <content src="Text/chapter-431.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-431" playOrder="432">
    <navLabel>
@@ -3466,7 +3466,7 @@
      Chapter 432: Goro
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-432.xhtml"/>
+   <content src="Text/chapter-432.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-432" playOrder="433">
    <navLabel>
@@ -3474,7 +3474,7 @@
      Chapter 433: Dividing the Spoils
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-433.xhtml"/>
+   <content src="Text/chapter-433.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-433" playOrder="434">
    <navLabel>
@@ -3482,7 +3482,7 @@
      Chapter 434: Blacksmith Temple
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-434.xhtml"/>
+   <content src="Text/chapter-434.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-434" playOrder="435">
    <navLabel>
@@ -3490,7 +3490,7 @@
      Chapter 435: Pay to Win Expert
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-435.xhtml"/>
+   <content src="Text/chapter-435.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-435" playOrder="436">
    <navLabel>
@@ -3498,7 +3498,7 @@
      Chapter 436: Ten Years Time Limit
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-436.xhtml"/>
+   <content src="Text/chapter-436.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-436" playOrder="437">
    <navLabel>
@@ -3506,7 +3506,7 @@
      Chapter 437: Ambush and Reorganization
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-437.xhtml"/>
+   <content src="Text/chapter-437.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-437" playOrder="438">
    <navLabel>
@@ -3514,7 +3514,7 @@
      Chapter 438: A New Target
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-438.xhtml"/>
+   <content src="Text/chapter-438.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-438" playOrder="439">
    <navLabel>
@@ -3522,7 +3522,7 @@
      Chapter 439: Red
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-439.xhtml"/>
+   <content src="Text/chapter-439.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-439" playOrder="440">
    <navLabel>
@@ -3530,7 +3530,7 @@
      Chapter 440: Indigo Mound Tribe’s Crisis
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-440.xhtml"/>
+   <content src="Text/chapter-440.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-440" playOrder="441">
    <navLabel>
@@ -3538,7 +3538,7 @@
      Chapter 441: Charge!
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-441.xhtml"/>
+   <content src="Text/chapter-441.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-441" playOrder="442">
    <navLabel>
@@ -3546,7 +3546,7 @@
      Chapter 442: The Role of Divine Servants
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-442.xhtml"/>
+   <content src="Text/chapter-442.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-442" playOrder="443">
    <navLabel>
@@ -3554,7 +3554,7 @@
      Chapter 443: Unexpected Variable
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-443.xhtml"/>
+   <content src="Text/chapter-443.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-443" playOrder="444">
    <navLabel>
@@ -3562,7 +3562,7 @@
      Chapter 444: Mastermind
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-444.xhtml"/>
+   <content src="Text/chapter-444.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-444" playOrder="445">
    <navLabel>
@@ -3570,7 +3570,7 @@
      Chapter 445: Cause
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-445.xhtml"/>
+   <content src="Text/chapter-445.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-445" playOrder="446">
    <navLabel>
@@ -3578,7 +3578,7 @@
      Chapter 446: Zhuangxuan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-446.xhtml"/>
+   <content src="Text/chapter-446.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-446" playOrder="447">
    <navLabel>
@@ -3586,7 +3586,7 @@
      Chapter 447: Savage Beasts World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-447.xhtml"/>
+   <content src="Text/chapter-447.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-447" playOrder="448">
    <navLabel>
@@ -3594,7 +3594,7 @@
      Chapter 448: Expert at Courting Death
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-448.xhtml"/>
+   <content src="Text/chapter-448.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-448" playOrder="449">
    <navLabel>
@@ -3602,7 +3602,7 @@
      Chapter 449: Yan Xiaoxiao's Choice
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-449.xhtml"/>
+   <content src="Text/chapter-449.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-449" playOrder="450">
    <navLabel>
@@ -3610,7 +3610,7 @@
      Chapter 450: Misplaced Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-450.xhtml"/>
+   <content src="Text/chapter-450.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-450" playOrder="451">
    <navLabel>
@@ -3618,7 +3618,7 @@
      Chapter 451: Bad Luck Charm
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-451.xhtml"/>
+   <content src="Text/chapter-451.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-451" playOrder="452">
    <navLabel>
@@ -3626,7 +3626,7 @@
      Chapter 452: Legend of the Red Embroidered Ball
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-452.xhtml"/>
+   <content src="Text/chapter-452.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-452" playOrder="453">
    <navLabel>
@@ -3634,7 +3634,7 @@
      Chapter 453: God of Love
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-453.xhtml"/>
+   <content src="Text/chapter-453.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-453" playOrder="454">
    <navLabel>
@@ -3642,7 +3642,7 @@
      Chapter 454: Elise's Origins
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-454.xhtml"/>
+   <content src="Text/chapter-454.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-454" playOrder="455">
    <navLabel>
@@ -3650,7 +3650,7 @@
      Chapter 455: Qin Ning's Scheme
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-455.xhtml"/>
+   <content src="Text/chapter-455.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-455" playOrder="456">
    <navLabel>
@@ -3658,7 +3658,7 @@
      Chapter 456: Yin Yang Swords
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-456.xhtml"/>
+   <content src="Text/chapter-456.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-456" playOrder="457">
    <navLabel>
@@ -3666,7 +3666,7 @@
      Chapter 457: Opportunity
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-457.xhtml"/>
+   <content src="Text/chapter-457.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-457" playOrder="458">
    <navLabel>
@@ -3674,7 +3674,7 @@
      Chapter 458: Goro’s Whereabouts
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-458.xhtml"/>
+   <content src="Text/chapter-458.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-458" playOrder="459">
    <navLabel>
@@ -3682,7 +3682,7 @@
      Chapter 459: Blade of Night
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-459.xhtml"/>
+   <content src="Text/chapter-459.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-459" playOrder="460">
    <navLabel>
@@ -3690,7 +3690,7 @@
      Chapter 460: Prey
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-460.xhtml"/>
+   <content src="Text/chapter-460.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-460" playOrder="461">
    <navLabel>
@@ -3698,7 +3698,7 @@
      Chapter 461: Confounding Mystery
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-461.xhtml"/>
+   <content src="Text/chapter-461.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-461" playOrder="462">
    <navLabel>
@@ -3706,7 +3706,7 @@
      Chapter 462: Tier 8
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-462.xhtml"/>
+   <content src="Text/chapter-462.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-462" playOrder="463">
    <navLabel>
@@ -3714,7 +3714,7 @@
      Chapter 463: Naming the Astral World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-463.xhtml"/>
+   <content src="Text/chapter-463.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-463" playOrder="464">
    <navLabel>
@@ -3722,7 +3722,7 @@
      Chapter 464: Seeking Revenge
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-464.xhtml"/>
+   <content src="Text/chapter-464.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-464" playOrder="465">
    <navLabel>
@@ -3730,7 +3730,7 @@
      Chapter 465: Post-War Impact
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-465.xhtml"/>
+   <content src="Text/chapter-465.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-465" playOrder="466">
    <navLabel>
@@ -3738,7 +3738,7 @@
      Chapter 466: Found Out
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-466.xhtml"/>
+   <content src="Text/chapter-466.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-466" playOrder="467">
    <navLabel>
@@ -3746,7 +3746,7 @@
      Chapter 467: Sylvia, Savior of the World?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-467.xhtml"/>
+   <content src="Text/chapter-467.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-467" playOrder="468">
    <navLabel>
@@ -3754,7 +3754,7 @@
      Chapter 468: Wu Tian Returns to the Sect
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-468.xhtml"/>
+   <content src="Text/chapter-468.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-468" playOrder="469">
    <navLabel>
@@ -3762,7 +3762,7 @@
      Chapter 469: Weak Gods Hunting Manual
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-469.xhtml"/>
+   <content src="Text/chapter-469.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-469" playOrder="470">
    <navLabel>
@@ -3770,7 +3770,7 @@
      Chapter 470: Pandora's Box
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-470.xhtml"/>
+   <content src="Text/chapter-470.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-470" playOrder="471">
    <navLabel>
@@ -3778,7 +3778,7 @@
      Chapter 471: Response
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-471.xhtml"/>
+   <content src="Text/chapter-471.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-471" playOrder="472">
    <navLabel>
@@ -3786,7 +3786,7 @@
      Chapter 472: Enmity
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-472.xhtml"/>
+   <content src="Text/chapter-472.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-472" playOrder="473">
    <navLabel>
@@ -3794,7 +3794,7 @@
      Chapter 473: Meeting of the Thirteen Heavens
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-473.xhtml"/>
+   <content src="Text/chapter-473.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-473" playOrder="474">
    <navLabel>
@@ -3802,7 +3802,7 @@
      Chapter 474: Nightmare Continent
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-474.xhtml"/>
+   <content src="Text/chapter-474.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-474" playOrder="475">
    <navLabel>
@@ -3810,7 +3810,7 @@
      Chapter 475: Murder Suspect
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-475.xhtml"/>
+   <content src="Text/chapter-475.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-475" playOrder="476">
    <navLabel>
@@ -3818,7 +3818,7 @@
      Chapter 476: Shi Yeyan
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-476.xhtml"/>
+   <content src="Text/chapter-476.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-476" playOrder="477">
    <navLabel>
@@ -3826,7 +3826,7 @@
      Chapter 477: Overt Schemes, Hidden Schemes
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-477.xhtml"/>
+   <content src="Text/chapter-477.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-477" playOrder="478">
    <navLabel>
@@ -3834,7 +3834,7 @@
      Chapter 478: Motive Uncovered
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-478.xhtml"/>
+   <content src="Text/chapter-478.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-478" playOrder="479">
    <navLabel>
@@ -3842,7 +3842,7 @@
      Chapter 479: Song Fei's Decisiveness
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-479.xhtml"/>
+   <content src="Text/chapter-479.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-479" playOrder="480">
    <navLabel>
@@ -3850,7 +3850,7 @@
      Chapter 480: Joining the War
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-480.xhtml"/>
+   <content src="Text/chapter-480.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-480" playOrder="481">
    <navLabel>
@@ -3858,7 +3858,7 @@
      Chapter 481: Teammates
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-481.xhtml"/>
+   <content src="Text/chapter-481.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-481" playOrder="482">
    <navLabel>
@@ -3866,7 +3866,7 @@
      Chapter 482: Starting the Hunt
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-482.xhtml"/>
+   <content src="Text/chapter-482.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-482" playOrder="483">
    <navLabel>
@@ -3874,7 +3874,7 @@
      Chapter 483: Snow God
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-483.xhtml"/>
+   <content src="Text/chapter-483.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-483" playOrder="484">
    <navLabel>
@@ -3882,7 +3882,7 @@
      Chapter 484: Preparations for the Final Divine Kingdom War
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-484.xhtml"/>
+   <content src="Text/chapter-484.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-484" playOrder="485">
    <navLabel>
@@ -3890,7 +3890,7 @@
      Chapter 485: Ghost of the Battlefield
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-485.xhtml"/>
+   <content src="Text/chapter-485.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-485" playOrder="486">
    <navLabel>
@@ -3898,7 +3898,7 @@
      Chapter 486: Another Ghost
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-486.xhtml"/>
+   <content src="Text/chapter-486.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-486" playOrder="487">
    <navLabel>
@@ -3906,7 +3906,7 @@
      Chapter 487: Investigation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-487.xhtml"/>
+   <content src="Text/chapter-487.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-487" playOrder="488">
    <navLabel>
@@ -3914,7 +3914,7 @@
      Chapter 488: Another Test
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-488.xhtml"/>
+   <content src="Text/chapter-488.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-488" playOrder="489">
    <navLabel>
@@ -3922,7 +3922,7 @@
      Chapter 489: Each With Their Own Schemes
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-489.xhtml"/>
+   <content src="Text/chapter-489.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-489" playOrder="490">
    <navLabel>
@@ -3930,7 +3930,7 @@
      Chapter 490: Traitor
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-490.xhtml"/>
+   <content src="Text/chapter-490.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-490" playOrder="491">
    <navLabel>
@@ -3938,7 +3938,7 @@
      Chapter 491: Message
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-491.xhtml"/>
+   <content src="Text/chapter-491.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-491" playOrder="492">
    <navLabel>
@@ -3946,7 +3946,7 @@
      Chapter 492: What does he want?
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-492.xhtml"/>
+   <content src="Text/chapter-492.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-492" playOrder="493">
    <navLabel>
@@ -3954,7 +3954,7 @@
      Chapter 493: Speculations
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-493.xhtml"/>
+   <content src="Text/chapter-493.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-493" playOrder="494">
    <navLabel>
@@ -3962,7 +3962,7 @@
      Chapter 494: Entering Tier 9 First
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-494.xhtml"/>
+   <content src="Text/chapter-494.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-494" playOrder="495">
    <navLabel>
@@ -3970,7 +3970,7 @@
      Chapter 495: Imperial Glory Heaven Falls
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-495.xhtml"/>
+   <content src="Text/chapter-495.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-495" playOrder="496">
    <navLabel>
@@ -3978,7 +3978,7 @@
      Chapter 496: Send him on his way
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-496.xhtml"/>
+   <content src="Text/chapter-496.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-496" playOrder="497">
    <navLabel>
@@ -3986,7 +3986,7 @@
      Chapter 497: Second Round's Mission
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-497.xhtml"/>
+   <content src="Text/chapter-497.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-497" playOrder="498">
    <navLabel>
@@ -3994,7 +3994,7 @@
      Chapter 498: Sure-Hit Sword
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-498.xhtml"/>
+   <content src="Text/chapter-498.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-498" playOrder="499">
    <navLabel>
@@ -4002,7 +4002,7 @@
      Chapter 499: One Punch
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-499.xhtml"/>
+   <content src="Text/chapter-499.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-499" playOrder="500">
    <navLabel>
@@ -4010,7 +4010,7 @@
      Chapter 500: Invitation
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-500.xhtml"/>
+   <content src="Text/chapter-500.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-500" playOrder="501">
    <navLabel>
@@ -4018,7 +4018,7 @@
      Chapter 501: Eccentric Isolated From the World
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-501.xhtml"/>
+   <content src="Text/chapter-501.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-501" playOrder="502">
    <navLabel>
@@ -4026,7 +4026,7 @@
      Chapter 502: Three Days &amp; Sneak Attack
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-502.xhtml"/>
+   <content src="Text/chapter-502.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-502" playOrder="503">
    <navLabel>
@@ -4034,7 +4034,7 @@
      Chapter 503: Arms Dealer
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-503.xhtml"/>
+   <content src="Text/chapter-503.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-503" playOrder="504">
    <navLabel>
@@ -4042,7 +4042,7 @@
      Chapter 504: Special Forces
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-504.xhtml"/>
+   <content src="Text/chapter-504.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-504" playOrder="505">
    <navLabel>
@@ -4050,7 +4050,7 @@
      Chapter 505: Countermeasure
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-505.xhtml"/>
+   <content src="Text/chapter-505.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-505" playOrder="506">
    <navLabel>
@@ -4058,7 +4058,7 @@
      Chapter 506: Discovered
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-506.xhtml"/>
+   <content src="Text/chapter-506.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-506" playOrder="507">
    <navLabel>
@@ -4066,7 +4066,7 @@
      Chapter 507: Holy Light
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-507.xhtml"/>
+   <content src="Text/chapter-507.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-507" playOrder="508">
    <navLabel>
@@ -4074,7 +4074,7 @@
      Chapter 508: Blood Sacrifice
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-508.xhtml"/>
+   <content src="Text/chapter-508.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-508" playOrder="509">
    <navLabel>
@@ -4082,7 +4082,7 @@
      Chapter 509: Public Enemy of the Gods
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-509.xhtml"/>
+   <content src="Text/chapter-509.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-509" playOrder="510">
    <navLabel>
@@ -4090,7 +4090,7 @@
      Chapter 510: Realm for One
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-510.xhtml"/>
+   <content src="Text/chapter-510.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-510" playOrder="511">
    <navLabel>
@@ -4098,7 +4098,7 @@
      Chapter 511: Dream Realm
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-511.xhtml"/>
+   <content src="Text/chapter-511.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-511" playOrder="512">
    <navLabel>
@@ -4106,7 +4106,7 @@
      Chapter 512: Second Round
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-512.xhtml"/>
+   <content src="Text/chapter-512.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-512" playOrder="513">
    <navLabel>
@@ -4114,7 +4114,7 @@
      Chapter 513: Agreement Among Unified Dao Powers
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-513.xhtml"/>
+   <content src="Text/chapter-513.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-513" playOrder="514">
    <navLabel>
@@ -4122,7 +4122,7 @@
      Chapter 514: Name Change
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-514.xhtml"/>
+   <content src="Text/chapter-514.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-514" playOrder="515">
    <navLabel>
@@ -4130,7 +4130,7 @@
      Chapter 515: Path Post-Second Round
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-515.xhtml"/>
+   <content src="Text/chapter-515.xhtml"/>
   </navPoint>
   <navPoint class="chapter" id="navPoint-515" playOrder="516">
    <navLabel>
@@ -4138,7 +4138,127 @@
      Chapter 516: Greater God Dimension
     </text>
    </navLabel>
-   <content src="OEBPS/chapter-516.xhtml"/>
+   <content src="Text/chapter-516.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-516" playOrder="517">
+   <navLabel>
+    <text>
+     Chapter 517: Subject No. 29
+    </text>
+   </navLabel>
+   <content src="Text/chapter-517.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-517" playOrder="518">
+   <navLabel>
+    <text>
+     Chapter 518: Origin of the Ancient Three Realms
+    </text>
+   </navLabel>
+   <content src="Text/chapter-518.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-518" playOrder="519">
+   <navLabel>
+    <text>
+     Chapter 519: Essence of the World
+    </text>
+   </navLabel>
+   <content src="Text/chapter-519.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-519" playOrder="520">
+   <navLabel>
+    <text>
+     Chapter 520: King of the World
+    </text>
+   </navLabel>
+   <content src="Text/chapter-520.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-520" playOrder="521">
+   <navLabel>
+    <text>
+     Chapter 521: Blasphemer Project
+    </text>
+   </navLabel>
+   <content src="Text/chapter-521.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-521" playOrder="522">
+   <navLabel>
+    <text>
+     Chapter 522: I Don't Cultivate
+    </text>
+   </navLabel>
+   <content src="Text/chapter-522.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-522" playOrder="523">
+   <navLabel>
+    <text>
+     Chapter 523: Old Hank
+    </text>
+   </navLabel>
+   <content src="Text/chapter-523.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-523" playOrder="524">
+   <navLabel>
+    <text>
+     Chapter 524: An Extra God
+    </text>
+   </navLabel>
+   <content src="Text/chapter-524.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-524" playOrder="525">
+   <navLabel>
+    <text>
+     Chapter 525: Crescent City
+    </text>
+   </navLabel>
+   <content src="Text/chapter-525.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-525" playOrder="526">
+   <navLabel>
+    <text>
+     Chapter 526: A Greater God’s Surprising Appearance
+    </text>
+   </navLabel>
+   <content src="Text/chapter-526.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-526" playOrder="527">
+   <navLabel>
+    <text>
+     Chapter 527: The Greater God Who Cannot be Found
+    </text>
+   </navLabel>
+   <content src="Text/chapter-527.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-527" playOrder="528">
+   <navLabel>
+    <text>
+     Chapter 528: New World?
+    </text>
+   </navLabel>
+   <content src="Text/chapter-528.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-528" playOrder="529">
+   <navLabel>
+    <text>
+     Chapter 529: New World, Old World
+    </text>
+   </navLabel>
+   <content src="Text/chapter-529.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-529" playOrder="530">
+   <navLabel>
+    <text>
+     Chapter 530: Game
+    </text>
+   </navLabel>
+   <content src="Text/chapter-530.xhtml"/>
+  </navPoint>
+  <navPoint class="chapter" id="navPoint-530" playOrder="531">
+   <navLabel>
+    <text>
+     Chapter 531: Those Who Witnessed History Also Became History
+    </text>
+   </navLabel>
+   <content src="Text/chapter-531.xhtml"/>
   </navPoint>
  </navMap>
 </ncx>

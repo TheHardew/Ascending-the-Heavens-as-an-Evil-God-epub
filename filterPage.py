@@ -62,7 +62,7 @@ def remove_styles(root):
 
 
 def write_file(filename, title, tag):
-    with open(os.path.join('ebook/OEBPS/', filename), 'w', encoding='utf-8') as output_file:
+    with open(os.path.join('ebook/OEBPS/Text', filename), 'w', encoding='utf-8') as output_file:
         output_file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         output_file.write('<html xmlns="http://www.w3.org/1999/xhtml">\n')
         output_file.write('<head>\n')
@@ -162,4 +162,4 @@ def extract_title(root):
 if len(sys.argv) > 1:
     process_file(sys.argv[1])
 else:
-    print("No command line arguments provided. :3")
+    print("No command line arguments provided.")

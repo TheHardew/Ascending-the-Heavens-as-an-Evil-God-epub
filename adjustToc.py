@@ -9,7 +9,7 @@ def get_title(file):
 
     return soup.find('h1').get_text()
 
-os.chdir('ebook')
+os.chdir('ebook/OEBPS')
 
 with open('toc.xhtml', 'r', encoding='utf-8') as file:
     soupX = BeautifulSoup(file, 'html.parser')
@@ -31,15 +31,15 @@ mani.clear()
 
 mani.append(BeautifulSoup(f'<opf:item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>', 'xml'))
 mani.append(BeautifulSoup(f'<opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>', 'xml'))
-mani.append(BeautifulSoup(f'<opf:item id="cover" href="cover.jpeg" media-type="image/jpeg"/>', 'xml'))
+mani.append(BeautifulSoup(f'<opf:item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>', 'xml'))
 mani.append(BeautifulSoup(f'<opf:item id="cover-page" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>', 'xml'))
 
 spine = soupO.find('opf:spine')
 spine.clear()
     
 i = 0
-for f in natsorted(os.listdir('OEBPS')):
-    f = os.path.join('OEBPS', f)
+for f in natsorted(os.listdir('Text')):
+    f = os.path.join('Text', f)
     li = soupX.new_tag('li')
     a = soupX.new_tag('a', href=str(f))
     title = get_title(f)
