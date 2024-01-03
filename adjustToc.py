@@ -62,8 +62,8 @@ for f in natsorted(os.listdir('OEBPS')):
 
     np.append(BeautifulSoup(f'<content src="{f}"/>', 'xml'))
 
-    mani.append(BeautifulSoup(f'<opf:item id="prov_idx_{i+1}" href="{f}" media-type="application/xhtml+xml"/>', 'xml'))
-    spine.append(BeautifulSoup(f'<opf:itemref idref="prov_idx_{i+1}"/>', 'xml'))
+    mani.append(BeautifulSoup(f'<opf:item id="chapter_{i+1}" href="{f}" media-type="application/xhtml+xml"/>', 'xml'))
+    spine.append(BeautifulSoup(f'<opf:itemref idref="chapter_{i+1}"/>', 'xml'))
 
     i += 1
 
