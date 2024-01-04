@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mkdir -p ebook/OEBPS/Text
-find chapters/ -type f | xargs -P "$(nproc)" -n 1 python ./filterPage.py
+python ./filterPages.py
 python ./adjustToc.py
 
 name='Ascending the Heavens as an Evil God.epub'

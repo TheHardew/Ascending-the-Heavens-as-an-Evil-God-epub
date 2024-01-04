@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os
 import sys
 import re
+import multiprocessing as mp
 
 def process_file(filename):
     parts = filename.split('/')
@@ -159,7 +160,10 @@ def extract_title(root):
     t = root.find('span', class_='blog-post-title-font')
     return t.get_text() if t else ''
 
-if len(sys.argv) > 1:
-    process_file(sys.argv[1])
-else:
-    print("No command line arguments provided.")
+def main():
+    files = [os.path.join('chapters', file_name) for file_name in os.listdir('chapters')]
+    with mp.Pool() as pool:
+        pool.map(process_file, files)
+
+if __name__ == '__main__':
+    main()
