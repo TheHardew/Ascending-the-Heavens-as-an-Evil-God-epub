@@ -26,15 +26,15 @@ nm.clear()
 with open('content.opf', 'r', encoding='utf-8') as file:
     soupO = BeautifulSoup(file, 'xml')
 
-mani = soupO.find('opf:manifest')
+mani = soupO.find('manifest')
 mani.clear()
 
-mani.append(BeautifulSoup(f'<opf:item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>', 'xml'))
-mani.append(BeautifulSoup(f'<opf:item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>', 'xml'))
-mani.append(BeautifulSoup(f'<opf:item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>', 'xml'))
-mani.append(BeautifulSoup(f'<opf:item id="cover-page" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>', 'xml'))
+mani.append(BeautifulSoup(f'<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>', 'xml'))
+mani.append(BeautifulSoup(f'<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>', 'xml'))
+mani.append(BeautifulSoup(f'<item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>', 'xml'))
+mani.append(BeautifulSoup(f'<item id="cover-page" href="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>', 'xml'))
 
-spine = soupO.find('opf:spine')
+spine = soupO.find('spine')
 spine.clear()
     
 i = 0
@@ -62,8 +62,8 @@ for f in natsorted(os.listdir('Text')):
 
     np.append(BeautifulSoup(f'<content src="{f}"/>', 'xml'))
 
-    mani.append(BeautifulSoup(f'<opf:item id="chapter_{i+1}" href="{f}" media-type="application/xhtml+xml"/>', 'xml'))
-    spine.append(BeautifulSoup(f'<opf:itemref idref="chapter_{i+1}"/>', 'xml'))
+    mani.append(BeautifulSoup(f'<item id="chapter_{i+1}" href="{f}" media-type="application/xhtml+xml"/>', 'xml'))
+    spine.append(BeautifulSoup(f'<itemref idref="chapter_{i+1}"/>', 'xml'))
 
     i += 1
 

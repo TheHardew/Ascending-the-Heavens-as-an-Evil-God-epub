@@ -3,7 +3,6 @@
 mkdir -p ebook/OEBPS/Text
 find chapters/ -type f | xargs -P "$(nproc)" -n 1 python ./filterPage.py
 python ./adjustToc.py
-sed -i 's#<item#<opf:item#g' ebook/OEBPS/content.opf
 
 name='Ascending the Heavens as an Evil God.epub'
 rm "$name"
