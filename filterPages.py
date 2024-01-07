@@ -93,13 +93,18 @@ def transform_main_text(root, soup):
         header.replace_with(p_tag)
 
     for tag in soup.find_all(True):
+        if tag.has_attr('id') and tag['id'].startswith('viewer-'):
+            tag['id'] = tag['id'][7:]
+        if tag.has_attr('href') and tag['href'].startswith('#viewer-'):
+            tag['href'] = '#' + tag['href'][8:]
         if tag.has_attr('class'):
             tag['class'] = ''
             del tag['class']
-
-    for tag in soup.find_all(True):
-        if tag.has_attr('id') and tag['id'].startswith('viewer-'):
-            tag['id'] = tag['id'][7:]
+        if tag.name == 'p' and tag.has_attr('style'):
+            tag['style'] = ''
+            del tag['style']
+        if tag.name == 'span': # 'style' not in span.attrs or check_only_font_size(span):
+            tag.unwrap()
 
     return root
 
@@ -149,9 +154,6 @@ def remove_divs(root, soup):
     for d in root.find_all(lambda tag: tag.name == 'div' and tag.get_text() == ''):
         d.decompose()
 
-    for span in soup.find_all('span'):
-        if 'style' not in span.attrs or check_only_font_size(span):
-            span.unwrap()
 
     return root
     
