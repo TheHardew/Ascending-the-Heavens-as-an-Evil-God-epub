@@ -14,6 +14,9 @@ def process_file(filename):
     title = extract_title(soup)
     target_tag = soup.find('div', class_='fTEXDR')
 
+    title_tag = soup.new_tag('h1')
+    title_tag.string = title
+    
     result = re.search(r'(chapter-\d+)', parts[1]).group(1)
     if target_tag is not None:
         target_tag = change_lines(target_tag, soup)
@@ -21,7 +24,7 @@ def process_file(filename):
         target_tag = link(target_tag, soup)
         target_tag = remove_divs(target_tag, soup)
         target_tag = remove_styles(target_tag)
-        write_file(result + '.xhtml', title, target_tag)
+        write_file(result + '.xhtml', title_tag, target_tag)
 
 def link(root, soup):
     i = 1
@@ -62,17 +65,13 @@ def remove_styles(root):
     return root
 
 
-def write_file(filename, title, tag):
+def write_file(filename, title_tag, tag):
     with open(os.path.join('ebook/OEBPS/Text', filename), 'w', encoding='utf-8') as output_file:
         output_file.write('<?xml version="1.0" encoding="UTF-8"?>\n')
         output_file.write('<html xmlns="http://www.w3.org/1999/xhtml">\n')
-        output_file.write('<head>\n')
-        output_file.write(f'<title>{title}</title>\n')
-        output_file.write('</head>\n')
+        output_file.write('<head></head>\n')
         output_file.write('<body>\n')
-        output_file.write('<h1 class="h4 title" itemprop="headline">')
-        output_file.write(title)
-        output_file.write('</h1>')
+        output_file.write(str(title_tag))
         while len(tag.contents) == 1:
             tag = tag.contents[0]
         for c in tag.contents:
