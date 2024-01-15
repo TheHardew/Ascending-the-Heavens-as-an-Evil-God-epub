@@ -1,2 +1,5 @@
 *.epub
 ebook/OEBPS/Text/chapter-*.xhtml
+ebook/OEBPS/toc.ncx
+ebook/OEBPS/toc.xhtml
+ebook/OEBPS/content.opf

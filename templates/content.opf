@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package unique-identifier="BookId" version="3.0" xmlns="http://www.idpf.org/2007/opf">
+ <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <dc:identifier id="BookId">
+   e3d12ab3-a7d8-3283-0000-7f602783f993
+  </dc:identifier>
+  <dc:title>
+   Ascending the Heavens as an Evil God
+  </dc:title>
+  <dc:creator>
+   Qin Ding
+  </dc:creator>
+  <dc:language>
+   en
+  </dc:language>
+  <dc:language>
+   eng
+  </dc:language>
+  <meta property="dcterms:modified">
+   2023-12-28T13:25:51Z
+  </meta>
+  <meta content="4Lc7zCsguukFNOxxBdg4lofrzDVRU9akltuCVBQZp4A=" name="padding"/>
+  <dc:description>
+   A shut-in accidentally transmigrated while playing a dark R18 banned-cultivation gal game, and he brought this game panel called 《Evil God Cultivation》 with him…
+The cultivation of an Evil God requires him to go to the various planes’ dungeons to complete dark missions and finish daily evil events.
+“Evil Event triggered: Adopt the orphan Lin Yunyun.”
+“Lin Yunyun? Orphan? Old Wang, find someone to hit Lin Yunyun’s old geezer of a father with a car! Quickly, I’m in a hurry!”
+This is a story of an ambitious shut-in who, under the “persecution” of the portable game system, happily embarked on the path to become an Evil (human) God (scum).
+  </dc:description>
+  <meta content="cover" name="cover"/>
+ </metadata>
+ <manifest>
+ </manifest>
+ <spine toc="ncx">
+ </spine>
+ <guide>
+  <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  <reference href="toc.xhtml" title="Table of content" type="toc"/>
+ </guide>
+</package>
