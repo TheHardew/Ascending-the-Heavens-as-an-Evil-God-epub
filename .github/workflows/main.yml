@@ -21,17 +21,11 @@ jobs:
 
     - name: Scrape
       run: |
-        chmod +x ./scrape.sh
         ./scrape.sh
         
     - name: Make Ebook
       run: |
-        chmod +x makeEbook.sh
         ./makeEbook.sh
-
-    - name: Set Tag Name
-      id: tag
-      run: date +%F
 
     - name: Create Release
       run: |

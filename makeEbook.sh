@@ -1,8 +1,8 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 mkdir -p ebook/OEBPS/Text
-python ./filterPages.py
-python ./adjustToc.py
+./filterPages.py
+./adjustToc.py
 
 name='Ascending the Heavens as an Evil God.epub'
 rm -f "$name"
